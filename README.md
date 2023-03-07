@@ -16,6 +16,16 @@ Players start with one card- a HQ card with 40 hit points. The goal of the game 
 
 ***MORE TO COME***
 
+---Types of Cards---
 
-
+Headquarters
+Units
+Buildings
+Abilities
+Enhancements
+Items
+Policies
+Missions
+Territories
+Secrets
 
