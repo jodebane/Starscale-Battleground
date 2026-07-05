@@ -2,7 +2,7 @@ Name,Type,Subtype,Tags,EP Cost,Mission Cost,Attack Power,Hit Points,Text
 ,,,,,,,,
 Miltia Infantry,Unit,,#Militia #Infantry #Human,1,,1,1,
 Demalian Guardsman,Unit,,#Demalia #Infantry #Human,2,,2,2,
-Gera Shock Infantry,Unit,,#Gera #Infantry #Human,2,,2,1, Speed (this card can attack on its first turn in the battlefield)
+Gera Shock Infantry,Unit,,#Gera #Infantry #Human,2,,2,1,Speed (this card can attack on its first turn in the battlefield)
 Woodland Basilisk,Unit,,#Beast #Snake,2,,2,1,"When this unit attacks an enemy with the human or infantry tag, it gets +1 atk power"
 New Sekabia Rage Trooper,Unit,,#New_Sekabia #Human #Infantry,2,,3,1,This card cannot block unless you are starting your next turn with 5 or more EP.
 Roller Battlebot,Unit,,#Robot,2,,1,2,Speed (this card can attack on its first turn in the battlefield)
@@ -72,3 +72,9 @@ Den of Many Beasts,Building,,#Den,7,,,4,"All units you control get +3/+0. *Once 
 Class 3 Starscale Research Centre,Building,,#Research #Science,7,,,6,"Once per turn, you may search your library for 3 item cards with the starscale tag and put them into your hand. Then shuffle your library. *When you play an item card with the starscale tag, your HQ heals 5 HP."
 Magnificient Armoury,Building,,#Armoury #Storage,7,,,6,"Once per turn, you may search your library for 3 item cards with the weapon tag and put them into your hand. Then shuffle your library. *All units you control get +2/+2"
 Grandioise Victory Monument,Building,,#Monument,8,,,7,All units you control get +6/+5 as long as you have at least one policy card in play. 
+Citadel of Windows,Building,,#Building #Citadel,8,,,6,"After you draw a card, up to 3 buildings and your hq heal X HP, where X is the number of cards in your hand."
+Walled High Security Prison,Building,,#Building #Prison,8,,,7,"When this card comes into play, imprison up to 5 units an opponent has (they come under your control and cannot attack or defend, and are placed under this card). If it is at 5 units, you may pay 2 EP to return an imprisoned unit to your opponents' side of the battlefield and replace it with another one."
+Palace of the Wind Gods,Building,Wonder,#Building #Temple,9,,,8,"All airborne units have speed. *Units with an EP cost of 4 or less get +X/+X, where X is the nummber of airborne units you control. *Twice per turn, you may return up to 2 opponents' cards to their hand OR choose 2 cards from your graveyard and place them into your hand. "
+Tower of a Thousand Empires,Building,Wonder,#Building #Politcal #Tower,10,,,9,"Once per turn, a target opponent's HQ takes 3 * X damage and yours heals 3 * X damage, where X is the number of policies you control. *Draw an extra card during your draw step."
+Grand Kraton,Building,Wonder,#Building #Mutibiru,11,,,12,"Once per turn, your opponent's HQ takes 2X damage and yours heals 2X damage, where X is the number of mission and ability cards in your graveyard. *When an opponent has 30 or less cards left in their library, they lose the game."
+Sibrade Wormhole Gate,Building,Wonder,#Building #Wormhole,12,,,12,"When this card comes into play, return all permanents from your graveyard onto the battlefield. *When an opponent's HQ is at 20 or less HP, they lose the game."
