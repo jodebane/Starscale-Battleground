@@ -1,4 +1,4 @@
-# Starscale-Battleground
+# Starscale Battleground
 SciFi Trading Card Game with python backend. 
 
 ---ABOUT---
