@@ -78,3 +78,31 @@ Palace of the Wind Gods,Building,Wonder,#Building #Temple,9,,,8,"All airborne un
 Tower of a Thousand Empires,Building,Wonder,#Building #Politcal #Tower,10,,,9,"Once per turn, a target opponent's HQ takes 3 * X damage and yours heals 3 * X damage, where X is the number of policies you control. *Draw an extra card during your draw step."
 Grand Kraton,Building,Wonder,#Building #Mutibiru,11,,,12,"Once per turn, your opponent's HQ takes 2X damage and yours heals 2X damage, where X is the number of mission and ability cards in your graveyard. *When an opponent has 30 or less cards left in their library, they lose the game."
 Sibrade Wormhole Gate,Building,Wonder,#Building #Wormhole,12,,,12,"When this card comes into play, return all permanents from your graveyard onto the battlefield. *When an opponent's HQ is at 20 or less HP, they lose the game."
+,,,,,,,,
+Firebolt,Ability,,#Magic #Fire,1,,,,"Deal 3 damage to target unit, HQ or building."
+Energy Surge,Ability,,#Energy,1,,,,You get 3 extra energy points this turn (net 2 after paying 1 for this card)
+Magic Missile,Ability,,#Magic,1,,,,Deal 4 damage to target unit. The unit must have an EP cost under 4. 
+Banish,Ability,Interrupt,#Disruption,1,,,,Target card is returned to its owners hand.
+Skybound Lightning,Ability,Interrupt,#Magic #Lightning,2,,,,Destroy target unit with airborne.
+Arcane Shield,Ability,Interrupt,#Magic #Shield,2,,,,Target unit gets +3 HP until end of turn.
+Spark of Restoration,Ability,,#Magic #Healing,2,,,,Heal 4 HP on your HQ or 2 HP on target building.
+Beam of Healing,Ability,Interrupt,#Magic #Healing,2,,,,Use this when one of your units is destroyed. Target unit regains all HP and does not go into the graveyard. The unit is sided until your next turn.
+Cloud of Confusion,Ability,Interrupt,#Magic,2,,,,Up to 2 units controlled by opponents get -2 ATK until end of turn.
+Mortar Blast,Ability,,#Projectile,3,,,,Deals 5 damage to target building.
+Intercept,Ability,Interrupt,#Disruption,3,,,,Cancel target card play by opponent (the card they were about to play does not take effect and goes into the graveyard).
+Terminate,Ability,,#Disruption,3,,,,Destroy Target Enhancement.
+Subvert,Ability,,#Disruption #Politics,3,,,,Destroy target policy.
+Assassinate,Ability,,#Disruption,3,,,,Destroy target unit.
+Smash,Ability,,#Magic #Disruption,3,,,,Destroy target item.
+Arcane Prison Chains,Ability,,#Magic ,3,,,,"Choose up to 3 units of an opponent. Place 2 chain counters on each. At the beginning of each of that opponents' turns, they lose a counter. Until all the chain counters are removed, each unit cannot be unsided."
+Reckless Research,Ability,,#Science,3,,,,Your HQ takes 3 damage. Search your library for two cards of your choice and put them into your hand. Then shuffle your library.
+Forked Lightning,Ability,,#Magic #Lightning,4,,,,Destroy target unit. Up to 2 other units take 2 damage each.
+Detonate,Ability,,#Explosive,4,,,,Destroy target building with an HP under 8.
+Targeted Cannonfire,Ability,,#Projectile,4,,,,Deal 8 damage to target opponents' HQ.
+Spirit of Mending,Ability,Interrupt,#Magic #Restoration,4,,,,"Play this at the end of your or an opponents' turn. Heal all damage that was dealt to any of your buildings on the field this turn. (If any buildings were destroyed, they remain destroyed)."
+Restorative Shine,Ability,,#Magic #Restoration,4,,,,Heal 8 damage to your HQ.
+Restorative Mending,Ability,Interrupt,#Magic #Restoration,4,,,,Play this at the end of your or an opponents' turn. Heal all damage that was dealt to your HQ this turn.
+Toxic Rainstorm,Ability,,#Weather #Magic #Poison,4,,,,Destroy all units with airborne controlled by all players.
+Ice Storm,Ability,,#Magic #Ice,6,,,,"Deal 3 damage to up to 3 of target opponents' buildings and remove X units, where X is the number of permenants with the #magic tag you control on the battlefield."
+Apocalyptic Orbital Bombardment,Ability,,#Projectile #Orbital,6,,,,Destroy all items controlled by all players except HQs. 
+Artifical Black Hole,Ability,,#Advanced Physics,12,,,,Destroy all of target opponent's permanents (cards that stay in the board indefinitely) except the HQ. HQ takes 20 damage.
