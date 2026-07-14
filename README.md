@@ -39,7 +39,7 @@ Each deck must have at least 80 cards. There can be no more than 6 copies of any
 
 **Headquarters**
 
-The headquarters card is the centrepiece of your planetary colony. It is the one card you start with in the game, before any gameplay begins. Each headquarters card has 40 hit points and its health can not go above that. To win the game, you must reduce your opponents' HQ to 0 health. You can do so by attacking the HQ with units or using damage-dealing abilities.
+The headquarters card is the centrepiece of your planetary base. It is the one card you start with in the game, before any gameplay begins. Each headquarters card has 40 hit points and its health can not go above that. To win the game, you must reduce your opponents' HQ to 0 health. You can do so by attacking the HQ with units or using damage-dealing abilities.
 
 Each unique HQ comes with a different unique ability that grants you some sort of helpful bonus throughout the game. HQ abilities are meant to encourage to a specific playstyle or strategy. Decks should ideally be built around a specific strategy (ability damage, sabotage, beatdown) and different HQ cards go well with different kinds of gameplay strategies.
 
