@@ -43,6 +43,24 @@ The headquarters card is the centrepiece of your planetary base. It is the one c
 
 Each unique HQ comes with a different unique ability that grants you some sort of helpful bonus throughout the game. HQ abilities are meant to encourage to a specific playstyle or strategy. Decks should ideally be built around a specific strategy (ability damage, sabotage, beatdown) and different HQ cards go well with different kinds of gameplay strategies.
 
+**Unit**
+
+**Building**
+
+**Ability**
+
+**Enhancement**
+
+**Mission**
+
+Mission cards are one-time effects that function similarly to ability cards but with one crucial difference. A mission card, in addition to its energy points cost, has a mission cost. To pay a mission card's mission cost, you must side a combination of units whose' total EP costs add up to the mission cost or over it. When unit cards are sided to play a mission card, those units are said to be undertaking the mission. 
+
+Note: If any interrupt-subtype ability or anything else somehow (the ones that can be played during an opponents' turn) destroys any of the units as the mission is being played, the cards remain sided, the mission card goes into the graveyard, and the mission's effect is canceled.
+
+**Policy**
+**Item**
+
+
 
 
 ***MORE TO COME***
