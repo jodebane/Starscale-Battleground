@@ -68,7 +68,7 @@ Mages' Academy,Building,,#Magic #Academy,7,,,8,"At the beginning of your turn, y
 Niraxis Training Center,Building,,#Niraxis #Training,7,,,6,"Once during your turn, search your library for 3 unit and/or mission cards of your choice and put them into your hand. Then shuffle your library."
 Tower of Sabotage,Building,,#Tower,7,,,6,"Once during your turn, choose one: search your opponent's hand. Pick 3 cards and they are sacrificed OR target opponent discards a card of their choice and their HQ takes 3 damage"
 Advanced Class I Robotics Maintenance Facility,Building,,#Facility #Maintenance,7,,,8,"When you play a card with the drone or robot tag, target building or your HQ heals 3 HP. *Once per turn, search your library for 4 unit cards with the robot or drone tag and put them into your hand."
-Den of Many Beasts,Building,,#Den,7,,,4,"All units you control get +3/+0. *Once per turn, you may search your library for 3 unit cards with the beast tag and put it into your hand. Then shuffle your library."
+Den of Many Beasts,Building,,#Beast,7,,,4,"All units you control get +3/+0. *Once per turn, you may search your library for 3 unit cards with the beast tag and put it into your hand. Then shuffle your library."
 Class 3 Starscale Research Centre,Building,,#Research #Science,7,,,6,"Once per turn, you may search your library for 3 item cards with the starscale tag and put them into your hand. Then shuffle your library. *When you play an item card with the starscale tag, your HQ heals 5 HP."
 Magnificient Armoury,Building,,#Armoury #Storage,7,,,6,"Once per turn, you may search your library for 3 item cards with the weapon tag and put them into your hand. Then shuffle your library. *All units you control get +2/+2"
 Grandioise Victory Monument,Building,,#Monument,8,,,7,All units you control get +6/+5 as long as you have at least one policy card in play. 
@@ -105,7 +105,7 @@ Restorative Mending,Ability,Interrupt,#Magic #Restoration,4,,,,Play this at the 
 Toxic Rainstorm,Ability,,#Weather #Magic #Poison,4,,,,Destroy all units with airborne controlled by all players.
 Advanced Insight,Ability,,#Magic,5,,,,Search your library for up to 5 cards of your choice and put them into your hand. Then shuffle your library.
 Sweeping Flame,Ability,Interrupt,#Magic #Fire,5,,,,Destroy all units with an EP cost of 3 or less controlled by target opponent.
-Manta Volley,Ability,,#Magic #Mutibiru,5,,,,Destroy 3 opponents' units OR destroy 1 building OR destroy 1 enhancement
+Manta Volley,Ability,,#Magic #Mutibiru,5,,,,Destroy 3 of target opponents' units OR destroy 1 building OR destroy 1 enhancement
 Inspiring Battlecry,Ability,Interrupt,#Vocal,5,,,,All of your units get +4 / +1 until end of turn.
 Artifical Earthquake,Ability,,#Science,5,,,,Destroy all buildings controlled by all players.
 Ice Storm,Ability,,#Magic #Ice,6,,,,"Deal 3 damage to up to 3 of target opponents' buildings and remove X units, where X is the number of permenants with the #magic tag you control on the battlefield."
@@ -114,4 +114,28 @@ Apocalyptic Orbital Bombardment,Ability,,#Projectile #Orbital,6,,,,Destroy all i
 Forcefield Megacage,Ability,,#Forcefield,8,,,,"For your next 2 combat phases, opposing units may not block."
 Instant Building Replication,Ability,,#Advanced Physics,9,,,,All buildings in your graveyard are returned to your field at full HP. Your HQ heals 5 HP.
 Renaissance,Ability,,#Culture,9,,,,All policies and enhancements in your graveyard are returned to your field. 
-Artifical Black Hole,Ability,,#Advanced Physics,12,,,,Destroy all of target opponent's permanents (cards that stay in the board indefinitely) except the HQ. HQ takes 20 damage.
+Artifical Black Hole,Ability,,#Advanced Physics,12,,,,Destroy all of target opponent's permanents (cards that stay in the board indefinitely) except the HQ. That opponents' HQ takes 20 damage.
+,,,,,,,,
+Energy Surplus Operation,Mission,,#Energy,1,2,,,Gain 4 bonus energy points this turn (net 3 after paying for this card).
+Charge of the Beasts,Mission,,#Beast,2,2,,,Units with the #Beast tag get +3 ATK until end of turn.
+Militaristic Inspiration,Mission,,#Militaristic #Infantry,2,2,,,Units with the #Infantry get +3 ATK until end of turn.
+Brief Research Errand,Mission,,#Science #Research,1,3,,,Look at the top 4 cards of your library. Place any of your choice on the bottom of your library. Rearrange the others at the top in any order.
+Niraxis Underworld Expedition,Mission,,#Niraxis,2,3,,,Search your library for 3 item cards and put them into your hand. Then shuffle your library.
+Gunung Maso Summit Ascent,Mission,,#Mutibiru,2,3,,,Search your library for 5 cards with the #Mutibiru tag and put them into your hand. Then shuffle your library.
+Asteroid Mine Run,Mission,,#Asteroid #Spaceflight,3,2,,,You start your turn with 3 extra energy points next turn.
+Suicidal Dive Bombing,Mission,,#Aircraft,2,4,,,Sacrifice the unit(s) that was/were sided to pay for this mission. Destroy target building (not HQ).
+Mercenary Recruitment Campaign,Mission,,#Recruitment,4,X,,,"Create X ""mercenary"" unit tokens with the #Human, #Mercenary, and #Infantry tags. Their ATK is 2 and their HP is 1."
+Starscale Search Expedition,Mission,,#Starscale,4,X,,,Search your library for x item cards with the #Starscale tag and put them into your hand. Then shuffle your library.
+Onsite Architectural Study,Mission,,#Research,3,3,,,Srearch your library for 5 building cards and put them into your hand. Then shuffle your library.
+Stoke Mass Anarchy,Mission,,#Politics,4,2,,,Destroy all policies controlled by all players.
+Team HQ Repair Effort,Mission,,#Healing,2,4,,,Heal 8 HP on your HQ.
+Smash It All Up!,Mission,,#Politics,3,3,,,Destroy all items controlled by all players.
+Ralom Forest Hunt,Mission,,#Ralom,3,3,,,Heal 4 HP on your HQ. Search your library for 4 cards with the #Beast tag and put them into your hand. Then shuffle your library.
+Die for Science,Mission,,#Science #Research,1,5,,,"Sacrifice all units that were sided to play this card. Search your library for 4 cards, reveal them, and put them into your hand, and each can be any of the following categories: item, enhancement, unit, building, or ability. Then shuffle your library."
+Supply Route Interception,Mission,,#Spaceflight,2,5,,,Target opponent removes the top 10 cards of their library. 
+Sacrificial Ritual,Mission,,#Religious,5,2,,,"Sacrifice target unit that is not being sided to play this card. Search your library for 4 cards of any category(-ies), reveal them, and put them into your hand. Then shuffle your library."
+Grandioise Memorial Service,Mission,,#Militaristic #Healing,3,4,,,"You may only play this card if at least of your units has been destroyed this turn. Your HQ heals 6 HP, and you may fully heal one building of your choice."
+Anthropological Research Journey,Mission,,#Research,3,4,,,Search your library for 5 enhancement and/or policy cards and put them into your hand. Then shuffle your library.
+Destructive Mass Sacrifice,Mission,,#Militaristic ,1,7,,,"Sacrifice all units that were sided to play this card. Your opponent's HQ loses half of its remaining HP, rounded up. "
+Stance of Heroism,Mission,,#Militaristic,7,1,,,Your units gain +6 ATK / +5 HP until end of turn.
+Aerial Bombardment Campaign,Mission,,#Aircraft #Projectile,2,7,,,Destroy up to 5 of target opponents' units and/or buildings. Deal 10 damage to their HQ.
