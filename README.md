@@ -18,14 +18,14 @@ Types of Cards
 **Victory**
 
 Players start with one card- a HQ card with 40 hit points. The goal of the game is to reduce your opponents' HQ to 0 hit points. You also win the game if all of your opponents run out of cards to draw in their deck.
-
+_________________________________________________________________________________________________________________________________________________________
 
 
 
 **Deck Building**
 
 Each deck must have at least 80 cards. There can be no more than 6 copies of any individual card in the deck. Each deck must have exactly one and only one headquarters card.
-
+_________________________________________________________________________________________________________________________________________________________
 **Types of Cards**
 
 -Headquarters
@@ -46,6 +46,12 @@ Each unique HQ comes with a different unique ability that grants you some sort o
 **Unit**
 
 **Building**
+
+Building cards represent buildings that you construct in your planetary base. Building cards stay on the battlefield indefintiely until their hit point value is reduced to zero. They give enhancements that can help with gameplay tremendously. Buildings have higher hit point values than units with similar EP costs, but do not have attack values. In the combat phase, when players declare attackers, they can choose to have a unit go after a specific building instead of the HQ. Destroying an opponents' building may prove beneficial to a player, even though the way to win is to destroy the HQ. Also, buildings' health does not heal at the start of the owners' next turn, whereas units' health does.
+
+**Building subtype: Wonder**
+
+A wonder is a very powerful, unqiue type of building. Like heroic units, only one copy of a wonder card can be in the game at a time. If another player plays it first, and you want to play it, you are unable to do so until the other player's copy is destroyed.
 
 **Ability**
 
