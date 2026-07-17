@@ -55,7 +55,15 @@ A wonder is a very powerful, unqiue type of building. Like heroic units, only on
 
 **Ability**
 
+An ability card triggers some sort of one-time effect, then goes into the graveyard immediately after. 
+
+**Ability subtype: Interrupt**
+
+An interrupt ability is unique in that it can be played during your opponents' turn (as well as during your turn). After the opponent's actions through any phases of their turn, it is ok to declare an interrupt. Note that the energy points available to play a card depend on what you used in your turn earlier, as they do not replenish to their max value until the start of their next turn.
+
 **Enhancement**
+
+An enhancement is a card that stays on the battlefield indefinitely and provides some kind of benefit or bonus as long as it is there. Enhancements do not have hit point values or attack values. While they cannot be destroyed through combat damage like units or buildings can, there are various cards and effects that specifically target enhancements. 
 
 **Mission**
 
