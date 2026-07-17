@@ -47,7 +47,7 @@ Each unique HQ comes with a different unique ability that grants you some sort o
 
 **Building**
 
-Building cards represent buildings that you construct in your planetary base. Building cards stay on the battlefield indefintiely until their hit point value is reduced to zero. They give enhancements that can help with gameplay tremendously. Buildings have higher hit point values than units with similar EP costs, but do not have attack values. In the combat phase, when players declare attackers, they can choose to have a unit go after a specific building instead of the HQ. Destroying an opponents' building may prove beneficial to a player, even though the way to win is to destroy the HQ. Also, buildings' health does not heal at the start of the owners' next turn, whereas units' health does.
+Building cards represent buildings that you construct in your planetary base. Building cards stay on the battlefield indefintiely until their health value is reduced to zero. They give enhancements that can help with gameplay tremendously. Buildings have higher hit point values than units with similar EP costs, but do not have attack values. In the combat phase, when players declare attackers, they can choose to have a unit go after a specific building instead of the HQ. Destroying an opponents' building may prove beneficial to a player, even though the way to win is to destroy the HQ. Also, buildings' health does not heal at the start of the owners' next turn, whereas units' health does.
 
 **Building subtype: Wonder**
 
