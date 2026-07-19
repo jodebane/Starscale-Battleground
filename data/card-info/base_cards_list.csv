@@ -90,7 +90,7 @@ Beam of Healing,Ability,Interrupt,#Magic #Healing,2,,,,Use this when one of your
 Cloud of Confusion,Ability,Interrupt,#Magic,2,,,,Up to 2 units controlled by opponents get -2 ATK until end of turn.
 Mortar Blast,Ability,,#Projectile,3,,,,Deals 5 damage to target building.
 Intercept,Ability,Interrupt,#Disruption,3,,,,Cancel target card play by opponent (the card they were about to play does not take effect and goes into the graveyard).
-Terminate,Ability,,#Disruption,3,,,,Destroy Target Enhancement.
+Terminate,Ability,,#Disruption,3,,,,Destroy target enhancement.
 Subvert,Ability,,#Disruption #Politics,3,,,,Destroy target policy.
 Assassinate,Ability,,#Disruption,3,,,,Destroy target unit.
 Smash,Ability,,#Magic #Disruption,3,,,,Destroy target item.
@@ -118,7 +118,7 @@ Artifical Black Hole,Ability,,#Advanced Physics,12,,,,Destroy all of target oppo
 ,,,,,,,,
 Energy Surplus Operation,Mission,,#Energy,1,2,,,Gain 4 bonus energy points this turn (net 3 after paying for this card).
 Charge of the Beasts,Mission,,#Beast,2,2,,,Units with the #Beast tag get +3 ATK until end of turn.
-Militaristic Inspiration,Mission,,#Militaristic #Infantry,2,2,,,Units with the #Infantry get +3 ATK until end of turn.
+Militaristic Inspiration,Mission,,#Militaristic #Infantry,2,2,,,Units with the #Infantry tag get +3 ATK until end of turn.
 Brief Research Errand,Mission,,#Science #Research,1,3,,,Look at the top 4 cards of your library. Place any of your choice on the bottom of your library. Rearrange the others at the top in any order.
 Niraxis Underworld Expedition,Mission,,#Niraxis,2,3,,,Search your library for 3 item cards and put them into your hand. Then shuffle your library.
 Gunung Maso Summit Ascent,Mission,,#Mutibiru,2,3,,,Search your library for 5 cards with the #Mutibiru tag and put them into your hand. Then shuffle your library.
@@ -137,5 +137,18 @@ Sacrificial Ritual,Mission,,#Religious,5,2,,,"Sacrifice target unit that is not 
 Grandioise Memorial Service,Mission,,#Militaristic #Healing,3,4,,,"You may only play this card if at least of your units has been destroyed this turn. Your HQ heals 6 HP, and you may fully heal one building of your choice."
 Anthropological Research Journey,Mission,,#Research,3,4,,,Search your library for 5 enhancement and/or policy cards and put them into your hand. Then shuffle your library.
 Destructive Mass Sacrifice,Mission,,#Militaristic ,1,7,,,"Sacrifice all units that were sided to play this card. Your opponent's HQ loses half of its remaining HP, rounded up. "
-Heroic Command,Mission,,#Militaristic,7,1,,,Your units gain +8 ATK / +6 HP until end of turn.
+Stance of Heroism,Mission,,#Militaristic,7,1,,,Your units gain +6 ATK / +5 HP until end of turn.
 Aerial Bombardment Campaign,Mission,,#Aircraft #Projectile,2,7,,,Destroy up to 5 of target opponents' units and/or buildings. Deal 10 damage to their HQ.
+,,,,,,,,
+Aura of Decay,Enhancement,,#Magic,1,,,,"At the start of your turn, your HQ takes 2 damage. Then place a 1 ATK/1 HP ""automaton"" unit token with the #magic and #robot tags onto the battlefield."
+Chaotic Restoration,Enhancement,,#Magic,1,,,,"At the start of your turn, discard a card. Your HQ heals 4 damage."
+Battalion Morale,Enhancement,,#Militaristic,2,,,,All your units have +1 ATK as long as you have 3 or more units on the battlefield
+Chaotic Aura,Enhancement,,#Magic,2,,,,"All your units have -1 HP but +1 ATK (if they have 1 max HP just before this card is in play, they are removed from the battlefield)"
+Restorative Shine,Enhancement,,#Magic #Religious,2,,,,"At the end of your turn, you may choose your HQ or any one building and heal 2 HP."
+Sense of Curiosity,Enhancement,,#Scientific,2,,,,"After your draw step, you may look at the top 3 cards of your library. You may place any number of them on the bottom of your library and rearrange the rest at the top in any order."
+Advanced Boltguns,Enhancement,,#Projectile,3,,,,All your units in play with the #infantry tag have +2 ATK
+Arcane Shine,Enhancement,,#Magic,3,,,,"At the end of your turn, if you played an ability this turn, you may search your library for a card with the #Magic tag and put it into your hand. Then shuffle your library."
+Protection of the Weak,Enhancement,,#Militaristic,3,,,,All your units have +1 HP if their base HP value is 3 or less.
+Zealous Patriotism,Enhancement,,#Political,3,,,,Your units gain +1 ATK for each of your policy cards in play.
+Silat Competence,Enhancement,,#Mutibiru #Martial_Arts,3,,,,"Units with the #Mutibiru tag gain +1 ATK. At the end of your turn, if yan opponents' HQ took damage this turn, you may search your library for a card with the #Mutibiru tag and put it into your hand. Then shuffle your library."
+Essence of the Bielstrom Mountains,Enhancement,,#Ralom,3,,,,"Units with the #Ralom tag gain +1 HP. At the end of the turn, if your HQ healed any damage this turn, you may search your library for a card with the #Ralom tag and put it into your hand. Then shuffle your library."
