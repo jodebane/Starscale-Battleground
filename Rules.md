@@ -13,6 +13,7 @@ ultimately accomplish the goal of destroying their opponents' HQ.
 **Contents**
 
 Victory
+
 Types of Cards
 
 **Victory**
