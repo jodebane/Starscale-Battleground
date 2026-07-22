@@ -129,12 +129,12 @@ Starscale Search Expedition,Mission,,#Starscale,4,X,,,Search your library for x 
 Onsite Architectural Study,Mission,,#Research,3,3,,,Srearch your library for 5 building cards and put them into your hand. Then shuffle your library.
 Stoke Mass Anarchy,Mission,,#Politics,4,2,,,Destroy all policies controlled by all players.
 Team HQ Repair Effort,Mission,,#Healing,2,4,,,Heal 8 HP on your HQ.
-Smash It All Up!,Mission,,#Militaristic,3,3,,,Destroy all items controlled by all players.
+Smash It All Up!,Mission,,#Politics,3,3,,,Destroy all items controlled by all players.
 Ralom Forest Hunt,Mission,,#Ralom,3,3,,,Heal 4 HP on your HQ. Search your library for 4 cards with the #Beast tag and put them into your hand. Then shuffle your library.
 Die for Science,Mission,,#Science #Research,1,5,,,"Sacrifice all units that were sided to play this card. Search your library for 4 cards, reveal them, and put them into your hand, and each can be any of the following categories: item, enhancement, unit, building, or ability. Then shuffle your library."
 Supply Route Interception,Mission,,#Spaceflight,2,5,,,Target opponent removes the top 10 cards of their library. 
 Sacrificial Ritual,Mission,,#Religious,5,2,,,"Sacrifice target unit that is not being sided to play this card. Search your library for 4 cards of any category(-ies), reveal them, and put them into your hand. Then shuffle your library."
-Grandioise Memorial Service,Mission,,#Militaristic #Healing,3,4,,,"You may only play this card if at least one of your units has been destroyed this turn. Your HQ heals 6 HP, and you may fully heal one building of your choice."
+Grandioise Memorial Service,Mission,,#Militaristic #Healing,3,4,,,"You may only play this card if at least of your units has been destroyed this turn. Your HQ heals 6 HP, and you may fully heal one building of your choice."
 Anthropological Research Journey,Mission,,#Research,3,4,,,Search your library for 5 enhancement and/or policy cards and put them into your hand. Then shuffle your library.
 Destructive Mass Sacrifice,Mission,,#Militaristic ,1,7,,,"Sacrifice all units that were sided to play this card. Your opponent's HQ loses half of its remaining HP, rounded up. "
 Stance of Heroism,Mission,,#Militaristic,7,1,,,Your units gain +6 ATK / +5 HP until end of turn.
@@ -149,6 +149,13 @@ Sense of Curiosity,Enhancement,,#Scientific,2,,,,"After your draw step, you may 
 Advanced Boltguns,Enhancement,,#Projectile,3,,,,All your units in play with the #infantry tag have +2 ATK
 Arcane Shine,Enhancement,,#Magic,3,,,,"At the end of your turn, if you played an ability this turn, you may search your library for a card with the #Magic tag and put it into your hand. Then shuffle your library."
 Protection of the Weak,Enhancement,,#Militaristic,3,,,,All your units have +1 HP if their base HP value is 3 or less.
-Zealous Patriotism,Enhancement,,#Political,3,,,,Your units gain +1 ATK for each of your policy cards in play.
+Educated Patriotism,Enhancement,,#Political,3,,,,Your units gain +1 ATK for each of your policy cards in play.
 Silat Competence,Enhancement,,#Mutibiru #Martial_Arts,3,,,,"Units with the #Mutibiru tag gain +1 ATK. At the end of your turn, if yan opponents' HQ took damage this turn, you may search your library for a card with the #Mutibiru tag and put it into your hand. Then shuffle your library."
 Essence of the Bielstrom Mountains,Enhancement,,#Ralom,3,,,,"Units with the #Ralom tag gain +1 HP. At the end of the turn, if your HQ healed any damage this turn, you may search your library for a card with the #Ralom tag and put it into your hand. Then shuffle your library."
+Starscale Channeling - Destruction,Enhancement,,#Starscale #Magic,4,,,,"At the start of your turn, choose an opponent. Their HQ takes X damage, where X is the number of items tagged ""starscale"" you control that are in play."
+Aura of Restoration,Enhancement,,#Magic,4,,,,"At the start of your turn, your HQ heals 2 damage."
+Avant-garde Armour Upgrades,Enhancement,,#Militaristic,4,,,,All your units have +1 HP.
+Starscale Channeling - Restoration,Enhancement,,#Starscale #Magic,4,,,,"At the start of your turn, your HQ heals X health, where X is the number of items tagged ""starscale"" you control that are in play."
+Dying for a Cause,Enhancement,,#Militaristic,5,,,,"When one of your units is destroyed and goes into the graveyard, search your library for any card, reveal it, and put it into your hand. Then shuffle your library."
+Aura of Destruction,Enhancement,,#Magic,5,,,,"At the start of your turn, choose an opponent. Their HQ takes 3 damage."
+Mark of Sabotage,Enhancement,,#Magic,5,,,,"As this card comes into play, choose an opponent. Whenever one of that opponents' units or buildings is destroyed, the top 3 cards of their library are removed and placed in the graveyard."
