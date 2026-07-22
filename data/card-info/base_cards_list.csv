@@ -159,3 +159,9 @@ Starscale Channeling - Restoration,Enhancement,,#Starscale #Magic,4,,,,"At the s
 Dying for a Cause,Enhancement,,#Militaristic,5,,,,"When one of your units is destroyed and goes into the graveyard, search your library for any card, reveal it, and put it into your hand. Then shuffle your library."
 Aura of Destruction,Enhancement,,#Magic,5,,,,"At the start of your turn, choose an opponent. Their HQ takes 3 damage."
 Mark of Sabotage,Enhancement,,#Magic,5,,,,"As this card comes into play, choose an opponent. Whenever one of that opponents' units or buildings is destroyed, the top 3 cards of their library are removed and placed in the graveyard."
+Aura of Fortification,Enhancement,,#Magic,6,,,,"Your HQ and building cards cannot be the target of ability cards or enhancement effects your opponents control. At the beginning of your turn, your HQ heals 3 HP."
+Darkened Skies,Enhancement,,#Magic,6,,,,"When this card comes into play, choose an opponent. Destroy all units with the ""airborne"" ability. That opponent cannot play cards with the ""airborne"" ability while this enhancement is in play."
+Aura of Obliteration,Enhancement,,#Magic,7,,,,Each opponent removes the top 5 cards of their library at the start of their turn.
+Revival Project,Enhancement,,#Research #Advanced_Physics,7,,,,"At the beginning of your turn, you may choose 3 cards from your graveyard and then put them into your hand OR you may choose 6 cards from your graveyard and put them into your library, then shuffle your library."
+Dark Forcefield,Enhancement,,#Magic,8,,,,"During an opponent's turn's combat phase, their HQ takes 5 damage per unit that attacks. "
+Supreme Aura,Enhancement,,#Magic,9,,,,"At the end of your turn, your HQ heals 10 health. Choose an opponent, and their HQ takes 10 damage."
