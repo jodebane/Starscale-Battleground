@@ -45,13 +45,19 @@ Each unique HQ comes with a different unique ability that grants you some sort o
 
 **Unit**
 
+Unit cards form your army on the battlefield that you can use to attack opponents' HQs and buildings. Units stay on the battlefield indefinitely until killed or removed some other way. Every unit has a hit points value and attack points value. Unless a unit has the "speed" characteristic (specified in the rule text), the unit cannot attack until one turn after it enters the battlefield. Units can, however, block during the opponents' turn that follows the turn in which they enter the battlefield. Attacking in combat, using various abilities, as well as playing mission cards, require units to be sided. To side a unit, rotate the card 90 degrees. A sided unit cannot attack, block in the opponents' turn that follows, or use any other abilities until its controllers next turn. Unsiding units always takes place at the beginning of a players turn.
+
+**Unit subtype - Heroic**
+
+A heroic unit is a very unique, legendary unit. Only one copy of a heroic unit can be in the game at a time. If another player plays a heroic unit first, the unit cannot be played by you until the other players' copy is placed in the graveyard.
+
 **Building**
 
 Building cards represent buildings that you construct in your planetary base. Building cards stay on the battlefield indefintiely until their health value is reduced to zero. They give enhancements that can help with gameplay tremendously. Buildings have higher hit point values than units with similar EP costs, but do not have attack values. In the combat phase, when players declare attackers, they can choose to have a unit go after a specific building instead of the HQ. Destroying an opponents' building may prove beneficial to a player, even though the way to win is to destroy the HQ. Also, buildings' health does not heal at the start of the owners' next turn, whereas units' health does.
 
 **Building subtype: Wonder**
 
-A wonder is a very powerful, unqiue type of building. Like heroic units, only one copy of a wonder card can be in the game at a time. If another player plays it first, and you want to play it, you are unable to do so until the other player's copy is destroyed.
+A wonder is a very powerful, unqiue type of building. Like heroic units, only one copy of a wonder card can be in the game at a time. If another player plays it first, and you want to play it, you are unable to do so until the other player's copy is placed in the graveyard.
 
 **Ability**
 
