@@ -20,9 +20,6 @@ Types of Cards
 
 Players start with one card- a HQ card with 40 hit points. The goal of the game is to reduce your opponents' HQ to 0 hit points. You also win the game if all of your opponents run out of cards to draw in their deck.
 _________________________________________________________________________________________________________________________________________________________
-
-
-
 **Deck Building**
 
 Each deck must have at least 80 cards. There can be no more than 6 copies of any individual card in the deck. Each deck must have exactly one and only one headquarters card.
