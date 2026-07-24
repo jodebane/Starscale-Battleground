@@ -184,7 +184,7 @@ Advanced Jetpack,Item,Equipment,#Transport,4,,,,Equip cost: 1 EP. *Equipped unit
 Crimson Starscale,Item,,#Starscale,5,,,,"Sacrifice Crimson Starscale: Destroy all cards controlled by all players of one of these chosen categories: enhancements, policies, buildings, items, units"
 Alpha Blaster,Item,Equipment,#Projectile,5,,,,Equip cost: 1 EP. *Equipped unit gets +5 ATK.
 High Grade Vehicle Plating,Item,Equipment,#Armour,6,,,,Equip cost: 2 EP. Must be equipped to a unit with the #vehicle or #starship tag. *Equipped unit has +9 HP. 
-Cobina Corp Supercomputer,Item,,#Computer,6,,,,"You have no maximum hand size. *At the beginning of your turn, draw 5 cards."
+Cobina Corp Supercomputer,Item,,#Computer #Cobina_Corp,6,,,,"You have no maximum hand size. *At the beginning of your turn, draw 5 cards."
 Destruction Starscale,Item,,#Starscale,7,,,,"At the end of your turn, if you dealt damage to an opponent's building this turn, you may: that opponent's HQ takes 6 damage OR choose target building on that opponent's field and it takes 3 damage. "
 Darkshadow Starscale,Item,,#Starscale,7,,,,"At the beginning of all your opponents' turns, they must choose 1 unit or building and sacrifice it. "
 Emerald Starscale,Item,,#Starscale,8,,,,"At the beginning of your turn, choose up to 3 cards in your graveyard, reveal them, and put them into your hand. *At the end of your turn, you may choose: your HQ heals 5 HP OR a building of your choice heals 3 HP. "
