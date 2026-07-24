@@ -55,7 +55,7 @@ Building cards represent buildings that you construct in your planetary base. Bu
 
 **Building subtype: Wonder**
 
-A wonder is a very powerful, unqiue type of building. Like heroic units, only one copy of a wonder card can be in the game at a time. If another player plays it first, and you want to play it, you are unable to do so until the other player's copy is placed in the graveyard.
+A wonder is a very powerful, unique type of building. Like heroic units, only one copy of a wonder card can be in the game at a time. If another player plays it first, and you want to play it, you are unable to do so until the other player's copy is placed in the graveyard.
 
 **Ability**
 
@@ -71,11 +71,14 @@ An enhancement is a card that stays on the battlefield indefinitely and provides
 
 **Mission**
 
-Mission cards are one-time effects that function similarly to ability cards but with one crucial difference. A mission card, in addition to its energy points cost, has a mission cost. To pay a mission card's mission cost, you must side a combination of units whose' total EP costs add up to the mission cost or over it. When unit cards are sided to play a mission card, those units are said to be undertaking the mission. 
+Mission cards represent beneficial excursions that skilled people in your planetary base can undertake. They are one-time effects that function similarly to ability cards but with one crucial difference. A mission card, in addition to its energy points cost, has a mission cost. To pay a mission card's mission cost, you must side a combination of units whose' total EP costs add up to the mission cost or over it. When unit cards are sided to play a mission card, those units are said to be undertaking the mission. 
 
 Note: If any interrupt-subtype ability or anything else somehow (the ones that can be played during an opponents' turn) destroys any of the units as the mission is being played, the cards remain sided, the mission card goes into the graveyard, and the mission's effect is canceled.
 
 **Policy**
+
+Policy cards cards represent policies of your planetary colony's government. Policy cards stay on your field indefinitely like enhancements, and can have very helpful effects. Playing policy cards, however, comes at an additional cost. You can only play a policy card if you have not yet played any other cards this turn. If you play a policy card, you cannot play any other cards or have a combat phase in the rest of your turn. This means that playing a policy card is a careful choice that comes at the expense of being able to undertake other meaningful actions during your turn. Effects of permanents (cards that stay on the field indefinitely) can  still take effect.
+
 **Item**
 
 
