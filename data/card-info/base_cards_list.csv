@@ -1,4 +1,4 @@
-Name,Type,Subtype,Tags,EP Cost,Mission Cost,Attack Power,Hit Points,Text
+Name,Type,Subtype(s),Tags,EP Cost,Mission Cost,Attack Power,Hit Points,Text
 ,,,,,,,,
 Miltia Infantry,Unit,,#Militia #Infantry #Human,1,,1,1,
 Demalian Guardsman,Unit,,#Demalia #Infantry #Human,2,,2,2,
@@ -165,3 +165,28 @@ Aura of Obliteration,Enhancement,,#Magic,7,,,,Each opponent removes the top 5 ca
 Revival Project,Enhancement,,#Research #Advanced_Physics,7,,,,"At the beginning of your turn, you may choose 3 cards from your graveyard and then put them into your hand OR you may choose 6 cards from your graveyard and put them into your library, then shuffle your library."
 Dark Forcefield,Enhancement,,#Magic,8,,,,"During an opponent's turn's combat phase, their HQ takes 5 damage per unit that attacks. "
 Supreme Aura,Enhancement,,#Magic,9,,,,"At the end of your turn, your HQ heals 10 health. Choose an opponent, and their HQ takes 10 damage."
+,,,,,,,,
+Electric Dagger,Item,Equipment,#Melee,1,,,,Equip cost: 1 EP. *Equipped unit gets +1 ATK.
+Luminous Orb,Item,,#Magic,1,,,,"At the end of your turn, if your HQ healed any HP this turn, you may look at the top card of your library. Place it back on top of your library or move it to the bottom of your library."
+Blast Pistol,Item,Equipment,#Melee,2,,,,Equip cost: 1 EP. *Equipped unit gets +2 ATK.
+Signal Interception Beacon,Item,,#Device,2,,,,"Once per turn, for 1 EP, you may choose 3 cards in your opponents' hand and they are revealed to you. "
+High-thrust Jetpack,Item,Equipment,#Transport,3,,,,Equip cost: 3 EP. *Equipped unit has airborne (this unit can only be blocked by other units with airborne)
+Kris Dagger,Item,Equipment,#Mutibiru #Melee,3,,,,Equip cost: 2 EP. *Equipped unit gains lethal strike (any amount of damage dealt by this unit to an enemy unit in combat is enough to destroy the enemy unit). 
+Gamma Blaster,Item,Equipment,#Projectile,3,,,,Equip cost: 1 EP. *Equipped unit gets +3 ATK.
+Boots of Speed,Item,Equipment,#Footwear,3,,,,Equip cost: 2 EP. *Equipped unit has speed (this unit can attack on the turn when it comes into play). 
+Invisibility Suit ,Item,Equipment,#Clothing,3,,,,"Equip cost: 1 EP. *While on the battlefield, this unit cannot be the target of abilities or effects of cards (rule text) your opponents control. "
+Air Traffic Control Beacon,Item,,#Device,3,,,,All units on your field with airborne also have speed. 
+Mystic Beast Horn,Item,,#Beast #Magic,4,,,,All units with the #Beast tag get +1 ATK/+1 HP.
+Ultra Blaster,Item,Equipment,#Projectile,4,,,,Equip cost: 1 EP. *Equipped unit gets +4 ATK.
+Marksmans' Starscale,Item,Equipment,#Starscale,4,,,,Equip cost: 1 EP. *Must be equipped to a unit with the #infantry tag. *Equipped unit gains +4 ATK and lethal strike (any amount of damage dealt by this unit to an enemy unit in combat is enough to destroy the enemy unit).
+Poison Bomb,Item,,#Explosive,4,,,,Sacrifice Poison Bomb: Choose up to 3 of target opponent's units with an EP cost of 4 or less. Destroy those units.
+Advanced Jetpack,Item,Equipment,#Transport,4,,,,Equip cost: 1 EP. *Equipped unit has airborne and speed. *Equipped unit has +2 HP.
+Crimson Starscale,Item,,#Starscale,5,,,,"Sacrifice Crimson Starscale: Destroy all cards controlled by all players of one of these chosen categories: enhancements, policies, buildings, items, units"
+Alpha Blaster,Item,Equipment,#Projectile,5,,,,Equip cost: 1 EP. *Equipped unit gets +5 ATK.
+High Grade Vehicle Plating,Item,Equipment,#Armour,6,,,,Equip cost: 2 EP. Must be equipped to a unit with the #vehicle or #starship tag. *Equipped unit has +9 HP. 
+Cobina Corp Supercomputer,Item,,#Computer,6,,,,"You have no maximum hand size. *At the beginning of your turn, draw 5 cards."
+Destruction Starscale,Item,,#Starscale,7,,,,"At the end of your turn, if you dealt damage to an opponent's building this turn, you may: that opponent's HQ takes 6 damage OR choose target building on that opponent's field and it takes 3 damage. "
+Darkshadow Starscale,Item,,#Starscale,7,,,,"At the beginning of all your opponents' turns, they must choose 1 unit or building and sacrifice it. "
+Emerald Starscale,Item,,#Starscale,8,,,,"At the beginning of your turn, choose up to 3 cards in your graveyard, reveal them, and put them into your hand. *At the end of your turn, you may choose: your HQ heals 5 HP OR a building of your choice heals 3 HP. "
+Golden Starscale,Item,,#Starscale,8,,,,"At the beginning of your turn, either: Remove 8 cards from the top of target opponents' library OR draw 3 cards. *You have no maximum hand size."
+Starscale Alpha,Item,Exceptional,#Starscale,8,,,,"At the beginning of your turn, put 2 counters on this card. *At the end of your turn, you may heal 2X health to your HQ or target building OR you may do 2X damage to a target opponents' HQ or target building, where x is the number of counters on this card. "
