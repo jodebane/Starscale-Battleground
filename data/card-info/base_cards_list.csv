@@ -8,7 +8,7 @@ New Sekabia Rage Trooper,Unit,,#New_Sekabia #Human #Infantry,2,,3,1,This card ca
 Roller Battlebot,Unit,,#Robot,2,,1,2,Speed (this card can attack on its first turn in the battlefield)
 Desert Bush Jackal,Unit,,#Beast #Canine,2,,2,1,"When this card attacks an enemy with the human tag, it gets +2 atk power. This card cannot block an enemy with the human tag."
 Experimental Cyborg Rookie,Unit,,#Cyborg,2,,5,1,"In the end phase of its second turn on the battlefield, sacrifice this card."
-Rookie Combat Paramedic,Unit,,#Human #Doctor,2,,0,1,Side this card: heal 2 hit points of target unit. Use this ability after quantifying combat damage. You may use this ability during your opponents' turn.
+Rookie Combat Paramedic,Unit,,#Human #Medical,2,,0,1,Side this card: heal 2 hit points of target unit. Use this ability after quantifying combat damage. You may use this ability during your opponents' turn.
 Outspoken Activist,Unit,,#Civilian #Human #Politics,2,,0,1,"Side this card, pay 3 EP: search your library for a policy card and put it into your hand. Then shuffle your library"
 Cyber Hacker,Unit,,#Civilian #Human,3,,0,1,Side this card: target enhancement card is banished from the game until this card leaves the battlefield.
 Skilled Blademaster,Unit,,#Human #Melee,3,,3,2,Side this card: target unit cannot block this turn.
@@ -190,3 +190,30 @@ Darkshadow Starscale,Item,,#Starscale,7,,,,"At the beginning of all your opponen
 Emerald Starscale,Item,,#Starscale,8,,,,"At the beginning of your turn, choose up to 3 cards in your graveyard, reveal them, and put them into your hand. *At the end of your turn, you may choose: your HQ heals 5 HP OR a building of your choice heals 3 HP. "
 Golden Starscale,Item,,#Starscale,8,,,,"At the beginning of your turn, either: Remove 8 cards from the top of target opponents' library OR draw 3 cards. *You have no maximum hand size."
 Starscale Alpha,Item,Exceptional,#Starscale,8,,,,"At the beginning of your turn, put 2 counters on this card. *At the end of your turn, you may heal 2X health to your HQ or target building OR you may do 2X damage to a target opponents' HQ or target building, where x is the number of counters on this card. "
+,,,,,,,,
+Arcane Research Funding,Policy,,#Political #Magic,2,,,,"At the end of your turn, if you played an ability this turn, you may search your library for a card with the #Magic tag and put it into your hand. Then shuffle your library."
+Short-Term Military Recruitment.,Policy,,#Political #Militaristic,2,,,,"At the end of your turn, if you have 3 units or less on your field, you may search your library for a card with the #Infantry tag and put it into your hand. Then shuffle your library."
+Freedom of Speech,Policy,,#Political,3,,,,"As long as you have 4 or more enhancements in play, policies cost you 1 EP less to play. *Antithecal to ""State-Controlled Media""."
+State-Controlled Media,Policy,,#Political,3,,,,"As long as you have 5 or more units in play, policies cost you 1 EP less to play.  *Antithecal to ""Freedom of Speech""."
+Theocracy,Policy,,#Political #Religious,3,,,,"Cards with the #Religious tag cost 1 less EP to play, but cards with the #Science tag cost 2 more EP to play. *Antithecal to ""Secularism""."
+Secularism,Policy,,#Political,3,,,,"Cards with the #Science tag cost 1 less EP to play, but cards with the #Science tag cost 2 more EP to play. *Antithecal to ""Theocracy""."
+Capitalism,Policy,,#Political #Economic,4,,,,"If you have at least 3 cards in play with an EP cost over 5, at the end of you rturn, you may search your library for 1 card with an EP cost over 4, then put it into your hand. Then shuffle your library. *Antithecal to ""Communism""."
+Military Industrial Complex,Policy,,#Political #Militaristic,4,,,,"At the end of your turn, if you attacked with any units this turn, you may search your library for 2 unit cards, reveal them, and put them into your hand. Then shuffle your library."
+Communism,Policy,,#Political #Economic,4,,,,"You cannot play any cards with an EP cost over 4. *Draw 2 cards instead of 1 during your draw step. *You have no maximum hand size. *Antithecal to ""Capitalism"" (you may not have both cards in play at the same time). "
+Public Infrastructure Stimulus,Policy,,#Political,4,,,,"Immediately after this card enters the field, you may play a building card with an EP cost under 5 for no EP cost. *At the end of your turn, if you have 4 or less building cards on your field, you may search your library for a building card, reveal it, and put it into your hand. Then shuffle your library."
+Universal Health Care,Policy,,#Political #Medical,5,,,,"Every turn (including an opponents' turn), after calculating damage in combat, choose up to half of your units. You may heal 1 health of each of those units."
+Pacifist Decree,Policy,,#Political,5,,,,"At the start of every one of your turns after this policy is played, put a counter on Pacifist decree. Until there are 2 counters on this card, all players skip the combat phase. "
+Interstellar Trade Agreement,Policy,,#Political #Trade,6,,,,"You have no maximum hand size. *At the end of each of your turns, you may search your library for any card, reveal it, and put it into your hand. Then shuffle your library."
+Advanced Research Funding Programme,Policy,,#Political,8,,,,"You have no maximumm hand size. *At the end of each of your turns, if you have at least 5 permanents in play, you may search your library for 2 cards, reveal them, and put them into your hand. Then shuffle your library."
+Utopia Project,Policy,,#Political,8,,,,"If you have 10 or more buildings in play, you win the game. "
+,,,,,,,,
+Demalian Planetary Outpost,Headquarters,,#Demalia,,,,40,All units have +1 HP as long as you have 4 or more policy cards on the battlefield. 
+New Sekabian Imperial Base,Headquarters,,#New_Sekabia,,,,40,All units have +1 ATK as long as you have >2 units with an EP cost > 7 in play.
+Gera Outpost,Headquarters,,#Gera,,,,40,All units have speed as long as you have 5 or more units in play.
+Mutibiru Interplanetary Base,Headquarters,,#Mutibiru,,,,40,"At the end of your turn, if you played at least 2 ability cards this turn, you may search your library for any card, reveal it, and put it into your hand. "
+Galactic Mages' Center,Headquarters,,#Magic,,,,40,"All ability cards cost 1 less EP, but all unit and building cards cost 1 more EP. "
+Palace of the Builders,Headquarters,,#Research,,,,40,"If you have <4 buildings in play, each turn, you may search your library for a building card, reveal it, and put it into your hand. Then shuffle your library."
+Demalian Military Facility,Headquarters,,#Demalia #Militaristic,,,,40,All units have +1 ATK as long as you have 6 or more units in play. 
+Cobina Corp Starscale Research Facility,Headquarters,,#Cobina_Corp #Starscale #Research #Science,,,,40,"If you have 8 or more items in play, draw an extra card during your draw step."
+Hideout of the Beast Tamers,Headquarters,,#Beast,,,,40,"If you have 4 or more units in play AND all of your units in play have the #Beast tag, all your units get +1 ATK / +1 HP."
+Space Pirate Hideaway,Headquarters,,#Pirate,,,,40,"At the end of your turn, if an opponents' unit was destroyed this turn, return a chosen ability-interrupt card from your graveyard to your hand."
