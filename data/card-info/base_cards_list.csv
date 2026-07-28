@@ -1,6 +1,6 @@
-Primary ID,Name,Type,Subtype,Other subtype,Tags,EP Cost,Mission Cost,Attack Power,Hit Points,Text
+Card_ID,Name,Type,Subtype,Other_subtype,Tags,EP_Cost,Mission_Cost,Attack_Power,Hit_Points,Text
 ,,,,,,,,,,
-1,Miltia Infantry,Unit,,,#Militia #Infantry #Human,1,,1,1,
+1,Militia Infantry,Unit,,,#Militia #Infantry #Human,1,,1,1,
 2,Demalian Guardsman,Unit,,,#Demalia #Infantry #Human,2,,2,2,
 3,Gera Shock Infantry,Unit,,,#Gera #Infantry #Human,2,,2,1,Speed (this card can attack on its first turn in the battlefield).
 4,Woodland Basilisk,Unit,,,#Beast #Snake,2,,2,1,"When this unit attacks an enemy with the human or infantry tag, it gets +1 atk power."

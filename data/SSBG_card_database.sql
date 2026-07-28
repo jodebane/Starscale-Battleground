@@ -16,3 +16,5 @@ card_rules_text varchar(600) NOT NULL
 
 );
 
+SELECT * FROM SSBG_CARDS.cardslist;
+
