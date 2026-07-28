@@ -1,219 +1,219 @@
-Primary ID,Name,Type,Subtype(s),Tags,EP Cost,Mission Cost,Attack Power,Hit Points,Text
-,,,,,,,,,
-1,Miltia Infantry,Unit,,#Militia #Infantry #Human,1,,1,1,
-2,Demalian Guardsman,Unit,,#Demalia #Infantry #Human,2,,2,2,
-3,Gera Shock Infantry,Unit,,#Gera #Infantry #Human,2,,2,1,Speed (this card can attack on its first turn in the battlefield).
-4,Woodland Basilisk,Unit,,#Beast #Snake,2,,2,1,"When this unit attacks an enemy with the human or infantry tag, it gets +1 atk power."
-5,New Sekabia Rage Trooper,Unit,,#New_Sekabia #Human #Infantry,2,,3,1,This card cannot block unless you are starting your next turn with 5 or more EP.
-6,Roller Battlebot,Unit,,#Robot,2,,1,2,Speed (this card can attack on its first turn in the battlefield).
-7,Desert Bush Jackal,Unit,,#Beast #Canine,2,,2,1,"When this card attacks an enemy with the human tag, it gets +2 atk power. This card cannot block an enemy with the human tag."
-8,Experimental Cyborg Rookie,Unit,,#Cyborg,2,,5,1,"In the end phase of its second turn on the battlefield, sacrifice this card."
-9,Rookie Combat Paramedic,Unit,,#Human #Medical,2,,0,1,Side this card: heal 2 hit points of target unit. Use this ability after quantifying combat damage. You may use this ability during your opponents' turn.
-10,Outspoken Activist,Unit,,#Civilian #Human #Politics,2,,0,1,"Side this card, pay 3 EP: search your library for a policy card and put it into your hand. Then shuffle your library."
-11,Cyber Hacker,Unit,,#Civilian #Human,3,,0,1,Side this card: target enhancement card is banished from the game until this card leaves the battlefield.
-12,Skilled Blademaster,Unit,,#Human #Melee,3,,3,2,Side this card: target unit cannot block this turn.
-13,Determined Mission Controller,Unit,,#Civilian #Human,3,,0,1,"Side this card, pay 2 EP: Search your library for a mission card and put it into your hand. Then shuffle your library. *Side this card, pay 2 EP: target unit, if sided, becomes unsided at the end your turn."
-14,Spaceport Maintenenace Technician ,Unit,,#Civilian #Human,3,,0,1,"Side this card, pay 3 EP: search your library for a unit with the ""vehicle"" tag and put it into your hand. Then shuffle your library *Side this card, pay 2 EP: heal 4 hit points on target building."
-15,Neeseth Scout,Unit,,#Neeseth #Recon #Alien,3,,2,2,Side this card: you may pick three cards at random from your opponents' hand and look at them.*Airborne.
-16,Komodo Dragon Cavalry,Unit,,#Mutibiru #Human #Beast #Lizard #Cavalry,3,,4,2,"Speed. *If, at the end of the turn, this card has not dealt damage to a unit that died this turn, remove this card from the battlefield and shuffle it into your library."
-17,Power-channeling Wizard,Unit,,#Human #Wizard,3,,1,1,"Side this card, pay 2 EP: Search your library for an ability card and put it into your hand. Then shuffle your library."
-18,Wave Rider Wizard,Unit,,#Human #Wizard #Water,3,,1,3,Side this card: deal 3 damage to target unit or building that already took damage this turn.
-19,New Sekabia Class 3 Battlebot,Unit,,#New_Sekabia #Robot,3,,3,2,Side this card: deal 2 damage to target building or HQ *side this card: deal 1 damage to target unit.
-20,Laser Shield Defense Robot,Unit,,#Robot #Defensive,4,,0,4,Buildings you control get +2 HP.
-21,Gamma Blast Turret,Unit,,#Turret,4,,0,4,"Side this card: do 4 damage to target unit with airborne. *Side this card: do 2 damage to target unit, hq, or building."
-22,Gera Interception Drone,Unit,,#Drone #Gera,4,,2,3,"While this card is in the battlefield, your opponents cannot play mission or ability cards. *Airborne."
-23,Cyborg Scout Vulture,Unit,,#Cyborg #Beast #Bird #Recon,4,,3,2,"Airborne. *When you or an opponents' unit card goes into the graveyard, you may look at the top 4 cards of your library. You may place 1 mission, item or ability from among them into your hand. After doing so or not, place the other 3 cards on the bottom of your library, then shuffle it."
-24,Melee Superbot,Unit,,#Robot,4,,4,5,
-25,Woodland Beast Tamer,Unit,,#Human,4,,3,1,"Units you control with the ""Beast"" tag get +2/+2."
-26,New Sekabia Enforcer Drone,Unit,,#New_Sekabia #Robot #Drone,4,,4,3,Airborne.
-27,Accomplished Fire Wizard,Unit,,#Human #Wizard #Fire,4,,2,1,Side this card: deal 3 damage to target unit or building.
-28,Moon Crater Mini Dragon,Unit,,#Dragon #Space_Dweller,5,,4,2,"Side this card, pay 3 EP: destroy target unit with an EP cost under 4. *Airborne."
-29,Ralom Mountain Spider,Unit,,#Arachnid #Ralom,5,,3,3,Side this card: search a target opponents' library. Find up to 1 unit and up to 1 item card and put them into your graveyard. The opponent then shuffles their library.
-30,Gera Cyborg Bloodhound,Unit,,#Beast #Cyborg #Canine,5,,4,1,"Speed (this card can attack on its first turn in the battlefield). *When this card attacks, EITHER: target opponent sacrifices 3 cards of their choice from their hand, OR: destroy target unit with an EP cost of 3 or less."
-31,Angelic Restoration Wizard,Unit,,#Wizard #Human,5,,1,2,"Side this card: heal 5 HP on target building, HQ. *Side this card: heal 3 HP of up to 2 target units. You may play this ability during your opponents' turn after all combat damage is calculated (before any cards go in graveyards). "
-32,Demalian Fighter-class I Starship,Unit,,#Vehicle #Starship,5,,5,3,Speed (this card can attack on its first turn in the battlefield). Airborne (this card can only be blocked by other units with airborne).
-33,Asteroid Mine Defense Platform,Unit,,#Space_Station #Turret,6,,1,6,Side this card: deal 4 damage to up to 3 target units.
-34,Neeseth Guardian,Unit,,#Alien #Neeseth,6,,3,5,Side this card: up to 3 target units and buildings cannot take damage this turn. This cannot be used for your headquarters. You may use this ability during your opponents' turn.
-35,Demalian Landship,Unit,,#Tank,6,,2,7,Speed. *Side this card: deal 4 damage to 2 target buildings OR deal 2 damage to 3 target units.
-36,Astro Dragon,Unit,,#Dragon #Space_Dweller,6,,7,5,Airborne (this card can only be blocked by other units with airborne).
-37,Kemper Belt Stallion Model Frigate,Unit,,#Starship,7,,4,8,Airborne (this card can only be blocked by other units with airborne).
-38,Neeseth Warlord,Unit,,#Neeseth #Leader,7,,7,6,"Other units you control get +3 ATK, +0 HP. *Airborne."
-39,Grand Phoenix,Unit,,#Bird #Beast #Fire,7,,6,4,"When this card enters the battlefield, your HQ is restored to its starting HP. This can only trigger once per player over the course of a game (if you play a cop of this card, it does not trigger) *Airborne."
-40,"Father Jerolf, Emperor of New Sekabia",Unit,Heroic,#New_Sekabia #Human #Emperor,8,,12,5,"Once per turn, you may deal 6 damage to a unit or building of your choice."
-41,The Glorious Lion of Dekatania,Unit,Heroic,#Feline #Lion #Dekatania #Beast,8,,10,7,"Other units you control get +3 ATK, +3 HP."
-42,Demalian Battlecruiser,Unit,,#Vehicle #Starship #Cruiser,9,,6,10,"Side this card: deal 8 damage to target building, unit, or hq. Airborne (this card can only be blocked by other units with airborne)."
-,,,,,,,,,
-43,Makeshift Watchtower,Building,,#Tower,3,,,3,Once per turn you may observe the top card of your library. Place it at the top or the bottom of your library.
-44,Smart-Targeting Laser Fence,Building,,#Fence,3,,,3,"During your opponent's combat phase, after attacking units are selected, up to two attacking units of your choice get -1/-1."
-45,Governors' Pavilion,Building,,#Pavilion #Politics,4,,,4,"Once per turn, you may either: search your library for a policy card and put it into your hand. Then shuffle your library. OR heal 1 HP of your HQ or target building for each policy card you have in play."
-46,Shrine of Healing,Building,,#Religious,4,,,3,"At the beginning of your turn, your HQ heals 2 HP, but you discard a card."
-47,Shrine of Sacrifice,Building,,#Religious,4,,,3,"At the beginning of your turn, your HQ takes 2 damage, but you draw an extra card."
-48,Basic Repair Facility,Building,,#Facility,4,,,3,"Once per turn, you may heal 3 HP of up to one other building or headquarters."
-49,Ammunition Storage Facility,Building,,#Storage,4,,,4,Units with the infantry tag get +1/+0.
-50,Mobile Military Housing Complex,Building,,#Housing,5,,0,4,Units with the human and infantry tags get +0/+2.
-51,Cobina Corp Research Facility,Building,,#Cobina_Corp #Science #Research,5,,,4,"Whenever you draw a card or discard a card, choose: target opponent hq takes 1 damage OR your hq heals 1 HP."
-52,Flame Wizards' Watchtower,Building,,#Magic #Tower #Fire,5,,,3,"Whenever you play an ability during your opponents' turn, target building, unit or HQ takes 3 damage. *Once per turn, you may observe the top card of your library. Place it at the bottom or top of your library."
-53,Scholar's Foresight Beacon,Building,,#Beacon #Academic,5,,,3,"After your draw step, look at the top 3 cards of your library. Place 1 into your hand and for each other one, place it either at the bottom or top of your library."
-54,Energy Ration Storage,Building,,#Storage,5,,,4,"All your units except ones with the ""robot"" or ""vehicle"" tags get +2/+1. *Units with the infantry tag gain speed. "
-55,Defensive Battle Bunker,Building,,#Bunker,5,,,7,All your units get +0/+2.
-56,Demalian Barracks,Building,,#Demalia #Barracks,5,,,6,All your units with the infantry tag get +3/+1 unless they have the New Sekabia tag. 
-57,Mountain Chata Cabin,Building,,#Ralom #Cabin,6,,,4,"Once during your turn, you may search your graveyard for a mission or ability card and put it into your hand."
-58,Niraxis Wilderness Expedition Center,Building,,#Niraxis,6,,,3,"Once during your turn, you may pay 1 EP, then search your library for a unit card with the ""beast"" tag or a mission card and put it into your hand. Then shuffle your library."
-59,Kampung Dockyard,Building,,#Mutibiru #Dockyard,6,,,5,Your HQ or a building of your choice heals 4 HP whenever you play a mission card. 
-60,Temple of Destruction,Building,,#Religious,6,,,5,Pay 1 EP: Destroy target item your opponent controls or deal 3 damage to target building.
-61,Temple of Healing,Building,,#Religious,6,,,5,Pay 1 EP: Fully heal a non-HQ building or unit of your choice OR heal 4 HP of your HQ.
-62,Temple of Redemption,Building,,#Religious,6,,,5,"At the end of your turn, your HQ heals 4 HP if you dealt damage this turn."
-63,Forcefield-Guarded Hangar,Building,,#Hangar,6,,,6,"Units with the ""aircraft"" or ""starship"" tags get +0/+6."
-64,Mages' Academy,Building,,#Magic #Academy,7,,,8,"At the beginning of your turn, you may search your library for a unit card with the wizard tag or an ability card with the magic tag, and put it into your hand. Then shuffle your library. *At the beginning of your turn, gain 3 Bonus EP. Use this only to play magic-tagged abilities or units tagged ""wizard""."
-65,Niraxis Training Center,Building,,#Niraxis #Training,7,,,6,"Once during your turn, search your library for 3 unit and/or mission cards of your choice and put them into your hand. Then shuffle your library."
-66,Tower of Sabotage,Building,,#Tower,7,,,6,"Once during your turn, choose one: search your opponent's hand. Pick 3 cards and they are sacrificed OR target opponent discards a card of their choice and their HQ takes 3 damage."
-67,Advanced Class I Robotics Maintenance Facility,Building,,#Facility #Maintenance,7,,,8,"When you play a card with the drone or robot tag, target building or your HQ heals 3 HP. *Once per turn, search your library for 4 unit cards with the robot or drone tag and put them into your hand."
-68,Den of Many Beasts,Building,,#Beast,7,,,4,"All units you control get +3/+0. *Once per turn, you may search your library for 3 unit cards with the beast tag and put it into your hand. Then shuffle your library."
-69,Class 3 Starscale Research Centre,Building,,#Research #Science,7,,,6,"Once per turn, you may search your library for 3 item cards with the starscale tag and put them into your hand. Then shuffle your library. *When you play an item card with the starscale tag, your HQ heals 5 HP."
-70,Magnificient Armoury,Building,,#Armoury #Storage,7,,,6,"Once per turn, you may search your library for 3 item cards with the weapon tag and put them into your hand. Then shuffle your library. *All units you control get +2/+2."
-71,Grandioise Victory Monument,Building,,#Monument,8,,,7,All units you control get +6/+5 as long as you have at least one policy card in play. 
-72,Citadel of Windows,Building,,#Building #Citadel,8,,,6,"After you draw a card, up to 3 buildings and your hq heal X HP, where X is the number of cards in your hand."
-73,Walled High Security Prison,Building,,#Building #Prison,8,,,7,"When this card comes into play, imprison up to 5 units an opponent has (they come under your control and cannot attack or defend, and are placed under this card). If it is at 5 units, you may pay 2 EP to return an imprisoned unit to your opponents' side of the battlefield and replace it with another one."
-74,Palace of the Wind Gods,Building,Wonder,#Building #Temple,9,,,8,"All airborne units have speed. *Units with an EP cost of 4 or less get +X/+X, where X is the nummber of airborne units you control. *Twice per turn, you may return up to 2 opponents' cards to their hand OR choose 2 cards from your graveyard and place them into your hand. "
-75,Tower of a Thousand Empires,Building,Wonder,#Building #Politcal #Tower,10,,,9,"Once per turn, a target opponent's HQ takes 3 * X damage and yours heals 3 * X damage, where X is the number of policies you control. *Draw an extra card during your draw step."
-76,Grand Kraton,Building,Wonder,#Building #Mutibiru,11,,,12,"Once per turn, your opponent's HQ takes 2X damage and yours heals 2X damage, where X is the number of mission and ability cards in your graveyard. *When an opponent has 30 or less cards left in their library, they lose the game."
-77,Sibrade Wormhole Gate,Building,Wonder,#Building #Wormhole,12,,,12,"When this card comes into play, return all permanents from your graveyard onto the battlefield. *When an opponent's HQ is at 20 or less HP, they lose the game."
-,,,,,,,,,
-78,Firebolt,Ability,,#Magic #Fire,1,,,,"Deal 3 damage to target unit, HQ or building."
-79,Energy Surge,Ability,,#Energy,1,,,,You get 3 extra energy points this turn (net 2 after paying 1 for this card).
-80,Magic Missile,Ability,,#Magic,1,,,,Deal 4 damage to target unit. The unit must have an EP cost under 4. 
-81,Banish,Ability,Interrupt,#Disruption,1,,,,Target card is returned to its owners hand.
-82,Skybound Lightning,Ability,Interrupt,#Magic #Lightning,2,,,,Destroy target unit with airborne.
-83,Arcane Shield,Ability,Interrupt,#Magic #Shield,2,,,,Target unit gets +3 HP until end of turn.
-84,Spark of Restoration,Ability,,#Magic #Healing,2,,,,Heal 4 HP on your HQ or 2 HP on target building.
-85,Beam of Healing,Ability,Interrupt,#Magic #Healing,2,,,,Use this when one of your units is destroyed. Target unit regains all HP and does not go into the graveyard. The unit is sided until your next turn.
-86,Cloud of Confusion,Ability,Interrupt,#Magic,2,,,,Up to 2 units controlled by opponents get -2 ATK until end of turn.
-87,Mortar Blast,Ability,,#Projectile,3,,,,Deals 5 damage to target building.
-88,Intercept,Ability,Interrupt,#Disruption,3,,,,Cancel target card play by opponent (the card they were about to play does not take effect and goes into the graveyard).
-89,Terminate,Ability,,#Disruption,3,,,,Destroy target enhancement.
-90,Subvert,Ability,,#Disruption #Politics,3,,,,Destroy target policy.
-91,Assassinate,Ability,,#Disruption,3,,,,Destroy target unit.
-92,Smash,Ability,,#Magic #Disruption,3,,,,Destroy target item.
-93,Arcane Prison Chains,Ability,,#Magic ,3,,,,"Choose up to 3 units of an opponent. Place 2 chain counters on each. At the beginning of each of that opponents' turns, they lose a counter. Until all the chain counters are removed, each unit cannot be unsided."
-94,Reckless Research,Ability,,#Science,3,,,,Your HQ takes 3 damage. Search your library for up to 2 cards of your choice and put them into your hand. Then shuffle your library.
-95,Forked Lightning,Ability,,#Magic #Lightning,4,,,,Destroy target unit. Up to 2 other units take 2 damage each.
-96,Detonate,Ability,,#Explosive,4,,,,Destroy target building with an HP under 8.
-97,Targeted Cannonfire,Ability,,#Projectile,4,,,,Deal 8 damage to target opponents' HQ.
-98,Spirit of Mending,Ability,Interrupt,#Magic #Restoration,4,,,,"Play this at the end of your or an opponents' turn. Heal all damage that was dealt to any of your buildings on the field this turn. (If any buildings were destroyed, they remain destroyed)."
-99,Restorative Shine,Ability,,#Magic #Restoration,4,,,,Heal 8 damage to your HQ.
-100,Restorative Mending,Ability,Interrupt,#Magic #Restoration,4,,,,Play this at the end of your or an opponents' turn. Heal all damage that was dealt to your HQ this turn.
-101,Toxic Rainstorm,Ability,,#Weather #Magic #Poison,4,,,,Destroy all units with airborne controlled by all players.
-102,Advanced Insight,Ability,,#Magic,5,,,,Search your library for up to 5 cards of your choice and put them into your hand. Then shuffle your library.
-103,Sweeping Flame,Ability,Interrupt,#Magic #Fire,5,,,,Destroy all units with an EP cost of 3 or less controlled by target opponent.
-104,Manta Volley,Ability,,#Magic #Mutibiru,5,,,,Destroy 3 of target opponents' units OR destroy 1 building OR destroy 1 enhancement.
-105,Inspiring Battlecry,Ability,Interrupt,#Vocal,5,,,,All of your units get +4 / +1 until end of turn.
-106,Artifical Earthquake,Ability,,#Science,5,,,,Destroy all buildings controlled by all players.
-107,Ice Storm,Ability,,#Magic #Ice,6,,,,"Deal 3 damage to up to 3 of target opponents' buildings and remove X units, where X is the number of permenants with the #magic tag you control on the battlefield."
-108,Wall of Light,Ability,Interrupt,#Magic #Light,6,,,,Play this after your opponent has declared attackers. All attacking units atk power changes to 0. Your HQ heals 8 HP.
-109,Apocalyptic Orbital Bombardment,Ability,,#Projectile #Orbital,6,,,,Destroy all items controlled by all players except HQs. 
-110,Forcefield Megacage,Ability,,#Forcefield,8,,,,"For your next 2 combat phases, opposing units may not block."
-111,Instant Building Replication,Ability,,#Advanced Physics,9,,,,All buildings in your graveyard are returned to your field at full HP. Your HQ heals 5 HP.
-112,Renaissance,Ability,,#Culture,9,,,,All policies and enhancements in your graveyard are returned to your field. 
-113,Artifical Black Hole,Ability,,#Advanced Physics,12,,,,Destroy all of target opponent's permanents (cards that stay in the board indefinitely) except the HQ. That opponents' HQ takes 20 damage.
-,,,,,,,,,
-114,Energy Surplus Operation,Mission,,#Energy,1,2,,,Gain 4 bonus energy points this turn (net 3 after paying for this card).
-115,Charge of the Beasts,Mission,,#Beast,2,2,,,Units with the #Beast tag get +3 ATK until end of turn.
-116,Militaristic Inspiration,Mission,,#Militaristic #Infantry,2,2,,,Units with the #Infantry tag get +3 ATK until end of turn.
-117,Brief Research Errand,Mission,,#Science #Research,1,3,,,Look at the top 4 cards of your library. Place any of your choice on the bottom of your library. Rearrange the others at the top in any order.
-118,Niraxis Underworld Expedition,Mission,,#Niraxis,2,3,,,Search your library for 3 item cards and put them into your hand. Then shuffle your library.
-119,Gunung Maso Summit Ascent,Mission,,#Mutibiru,2,3,,,Search your library for 5 cards with the #Mutibiru tag and put them into your hand. Then shuffle your library.
-120,Asteroid Mine Run,Mission,,#Asteroid #Spaceflight,3,2,,,You start your turn with 3 extra energy points next turn.
-121,Suicidal Dive Bombing,Mission,,#Aircraft,2,4,,,Sacrifice the unit(s) that was/were sided to pay for this mission. Destroy target building (not HQ).
-122,Mercenary Recruitment Campaign,Mission,,#Recruitment,4,X,,,"Create X ""mercenary"" unit tokens with the #Human, #Mercenary, and #Infantry tags. Their ATK is 2 and their HP is 1."
-123,Starscale Search Expedition,Mission,,#Starscale,4,X,,,Search your library for x item cards with the #Starscale tag and put them into your hand. Then shuffle your library.
-124,Onsite Architectural Study,Mission,,#Research,3,3,,,Srearch your library for 5 building cards and put them into your hand. Then shuffle your library.
-125,Stoke Mass Anarchy,Mission,,#Politics,4,2,,,Destroy all policies controlled by all players.
-126,Team HQ Repair Effort,Mission,,#Healing,2,4,,,Heal 8 HP on your HQ.
-127,Smash It All Up!,Mission,,#Politics,3,3,,,Destroy all items controlled by all players.
-128,Ralom Forest Hunt,Mission,,#Ralom,3,3,,,Heal 4 HP on your HQ. Search your library for 4 cards with the #Beast tag and put them into your hand. Then shuffle your library.
-129,Die for Science,Mission,,#Science #Research,1,5,,,"Sacrifice all units that were sided to play this card. Search your library for 4 cards, reveal them, and put them into your hand, and each can be any of the following categories: item, enhancement, unit, building, or ability. Then shuffle your library."
-130,Supply Route Interception,Mission,,#Spaceflight,2,5,,,Target opponent removes the top 10 cards of their library. 
-131,Sacrificial Ritual,Mission,,#Religious,5,2,,,"Sacrifice target unit that is not being sided to play this card. Search your library for 4 cards of any category(-ies), reveal them, and put them into your hand. Then shuffle your library."
-132,Grandioise Memorial Service,Mission,,#Militaristic #Healing,3,4,,,"You may only play this card if at least of your units has been destroyed this turn. Your HQ heals 6 HP, and you may fully heal one building of your choice."
-133,Anthropological Research Journey,Mission,,#Research,3,4,,,Search your library for 5 enhancement and/or policy cards and put them into your hand. Then shuffle your library.
-134,Destructive Mass Sacrifice,Mission,,#Militaristic ,1,7,,,"Sacrifice all units that were sided to play this card. Your opponent's HQ loses half of its remaining HP, rounded up. "
-135,Stance of Heroism,Mission,,#Militaristic,7,1,,,Your units gain +6 ATK / +5 HP until end of turn.
-136,Aerial Bombardment Campaign,Mission,,#Aircraft #Projectile,2,7,,,Destroy up to 5 of target opponents' units and/or buildings. Deal 10 damage to their HQ.
-,,,,,,,,,
-137,Aura of Decay,Enhancement,,#Magic,1,,,,"At the start of your turn, your HQ takes 2 damage. Then place a 1 ATK/1 HP ""automaton"" unit token with the #magic and #robot tags onto the battlefield."
-138,Chaotic Restoration,Enhancement,,#Magic,1,,,,"At the start of your turn, discard a card. Your HQ heals 4 damage."
-139,Battalion Morale,Enhancement,,#Militaristic,2,,,,All your units have +1 ATK as long as you have 3 or more units on the battlefield.
-140,Chaotic Aura,Enhancement,,#Magic,2,,,,"All your units have -1 HP but +1 ATK (if they have 1 max HP just before this card is in play, they are removed from the battlefield)."
-141,Restorative Shine,Enhancement,,#Magic #Religious,2,,,,"At the end of your turn, you may choose your HQ or any one building and heal 2 HP."
-142,Sense of Curiosity,Enhancement,,#Scientific,2,,,,"After your draw step, you may look at the top 3 cards of your library. You may place any number of them on the bottom of your library and rearrange the rest at the top in any order."
-143,Advanced Boltguns,Enhancement,,#Projectile,3,,,,All your units in play with the #infantry tag have +2 ATK.
-144,Arcane Shine,Enhancement,,#Magic,3,,,,"At the end of your turn, if you played an ability this turn, you may search your library for a card with the #Magic tag and put it into your hand. Then shuffle your library."
-145,Protection of the Weak,Enhancement,,#Militaristic,3,,,,All your units have +1 HP if their base HP value is 3 or less.
-146,Educated Patriotism,Enhancement,,#Political,3,,,,Your units gain +1 ATK for each of your policy cards in play.
-147,Silat Competence,Enhancement,,#Mutibiru #Martial_Arts,3,,,,"Units with the #Mutibiru tag gain +1 ATK. At the end of your turn, if yan opponents' HQ took damage this turn, you may search your library for a card with the #Mutibiru tag and put it into your hand. Then shuffle your library."
-148,Essence of the Bielstrom Mountains,Enhancement,,#Ralom,3,,,,"Units with the #Ralom tag gain +1 HP. At the end of the turn, if your HQ healed any damage this turn, you may search your library for a card with the #Ralom tag and put it into your hand. Then shuffle your library."
-149,Starscale Channeling - Destruction,Enhancement,,#Starscale #Magic,4,,,,"At the start of your turn, choose an opponent. Their HQ takes X damage, where X is the number of items tagged ""starscale"" you control that are in play."
-150,Aura of Restoration,Enhancement,,#Magic,4,,,,"At the start of your turn, your HQ heals 2 damage."
-151,Avant-garde Armour Upgrades,Enhancement,,#Militaristic,4,,,,All your units have +1 HP.
-152,Starscale Channeling - Restoration,Enhancement,,#Starscale #Magic,4,,,,"At the start of your turn, your HQ heals X health, where X is the number of items tagged ""starscale"" you control that are in play."
-153,Dying for a Cause,Enhancement,,#Militaristic,5,,,,"When one of your units is destroyed and goes into the graveyard, search your library for any card, reveal it, and put it into your hand. Then shuffle your library."
-154,Aura of Destruction,Enhancement,,#Magic,5,,,,"At the start of your turn, choose an opponent. Their HQ takes 3 damage."
-155,Mark of Sabotage,Enhancement,,#Magic,5,,,,"As this card comes into play, choose an opponent. Whenever one of that opponents' units or buildings is destroyed, the top 3 cards of their library are removed and placed in the graveyard."
-156,Aura of Fortification,Enhancement,,#Magic,6,,,,"Your HQ and building cards cannot be the target of ability cards or enhancement effects your opponents control. At the beginning of your turn, your HQ heals 3 HP."
-157,Darkened Skies,Enhancement,,#Magic,6,,,,"When this card comes into play, choose an opponent. Destroy all units with the ""airborne"" ability. That opponent cannot play cards with the ""airborne"" ability while this enhancement is in play."
-158,Aura of Obliteration,Enhancement,,#Magic,7,,,,Each opponent removes the top 5 cards of their library at the start of their turn.
-159,Revival Project,Enhancement,,#Research #Advanced_Physics,7,,,,"At the beginning of your turn, you may choose 3 cards from your graveyard and then put them into your hand OR you may choose 6 cards from your graveyard and put them into your library, then shuffle your library."
-160,Dark Forcefield,Enhancement,,#Magic,8,,,,"During an opponent's turn's combat phase, their HQ takes 5 damage per unit that attacks. "
-161,Supreme Aura,Enhancement,,#Magic,9,,,,"At the end of your turn, your HQ heals 10 health. Choose an opponent, and their HQ takes 10 damage."
-,,,,,,,,,
-162,Electric Dagger,Item,Equipment,#Melee,1,,,,Equip cost: 1 EP. *Equipped unit gets +1 ATK.
-163,Luminous Orb,Item,,#Magic,1,,,,"At the end of your turn, if your HQ healed any HP this turn, you may look at the top card of your library. Place it back on top of your library or move it to the bottom of your library."
-164,Blast Pistol,Item,Equipment,#Melee,2,,,,Equip cost: 1 EP. *Equipped unit gets +2 ATK.
-165,Signal Interception Beacon,Item,,#Device,2,,,,"Once per turn, for 1 EP, you may choose 3 cards in your opponents' hand and they are revealed to you. "
-166,High-thrust Jetpack,Item,Equipment,#Transport,3,,,,Equip cost: 3 EP. *Equipped unit has airborne (this unit can only be blocked by other units with airborne).
-167,Kris Dagger,Item,Equipment,#Mutibiru #Melee,3,,,,Equip cost: 2 EP. *Equipped unit gains lethal strike (any amount of damage dealt by this unit to an enemy unit in combat is enough to destroy the enemy unit). 
-168,Gamma Blaster,Item,Equipment,#Projectile,3,,,,Equip cost: 1 EP. *Equipped unit gets +3 ATK.
-169,Boots of Speed,Item,Equipment,#Footwear,3,,,,Equip cost: 2 EP. *Equipped unit has speed (this unit can attack on the turn when it comes into play). 
-170,Invisibility Suit ,Item,Equipment,#Clothing,3,,,,"Equip cost: 1 EP. *While on the battlefield, this unit cannot be the target of abilities or effects of cards (rule text) your opponents control. "
-171,Air Traffic Control Beacon,Item,,#Device,3,,,,All units on your field with airborne also have speed. 
-172,Mystic Beast Horn,Item,,#Beast #Magic,4,,,,All units with the #Beast tag get +1 ATK/+1 HP.
-173,Ultra Blaster,Item,Equipment,#Projectile,4,,,,Equip cost: 1 EP. *Equipped unit gets +4 ATK.
-174,Marksmans' Starscale,Item,Equipment,#Starscale,4,,,,Equip cost: 1 EP. *Must be equipped to a unit with the #infantry tag. *Equipped unit gains +4 ATK and lethal strike (any amount of damage dealt by this unit to an enemy unit in combat is enough to destroy the enemy unit).
-175,Poison Bomb,Item,,#Explosive,4,,,,Sacrifice Poison Bomb: Choose up to 3 of target opponent's units with an EP cost of 4 or less. Destroy those units.
-176,Advanced Jetpack,Item,Equipment,#Transport,4,,,,Equip cost: 1 EP. *Equipped unit has airborne and speed. *Equipped unit has +2 HP.
-177,Crimson Starscale,Item,,#Starscale,5,,,,"Sacrifice Crimson Starscale: Destroy all cards controlled by all players of one of these chosen categories: enhancements, policies, buildings, items, units"
-178,Alpha Blaster,Item,Equipment,#Projectile,5,,,,Equip cost: 1 EP. *Equipped unit gets +5 ATK.
-179,High Grade Vehicle Plating,Item,Equipment,#Armour,6,,,,Equip cost: 2 EP. Must be equipped to a unit with the #vehicle or #starship tag. *Equipped unit has +9 HP. 
-180,Cobina Corp Supercomputer,Item,,#Computer #Cobina_Corp,6,,,,"You have no maximum hand size. *At the beginning of your turn, draw 5 cards."
-181,Destruction Starscale,Item,,#Starscale,7,,,,"At the end of your turn, if you dealt damage to an opponent's building this turn, you may: that opponent's HQ takes 6 damage OR choose target building on that opponent's field and it takes 3 damage. "
-182,Darkshadow Starscale,Item,,#Starscale,7,,,,"At the beginning of all your opponents' turns, they must choose 1 unit or building and sacrifice it. "
-183,Emerald Starscale,Item,,#Starscale,8,,,,"At the beginning of your turn, choose up to 3 cards in your graveyard, reveal them, and put them into your hand. *At the end of your turn, you may choose: your HQ heals 5 HP OR a building of your choice heals 3 HP. "
-184,Golden Starscale,Item,,#Starscale,8,,,,"At the beginning of your turn, either: Remove 8 cards from the top of target opponents' library OR draw 3 cards. *You have no maximum hand size."
-185,Starscale Alpha,Item,Exceptional,#Starscale,8,,,,"At the beginning of your turn, put 2 counters on this card. *At the end of your turn, you may heal 2X health to your HQ or target building OR you may do 2X damage to a target opponents' HQ or target building, where x is the number of counters on this card. "
-,,,,,,,,,
-186,Arcane Research Funding,Policy,,#Political #Magic,2,,,,"At the end of your turn, if you played an ability this turn, you may search your library for a card with the #Magic tag and put it into your hand. Then shuffle your library."
-187,Short-Term Military Recruitment.,Policy,,#Political #Militaristic,2,,,,"At the end of your turn, if you have 3 units or less on your field, you may search your library for a card with the #Infantry tag and put it into your hand. Then shuffle your library."
-188,Freedom of Speech,Policy,,#Political,3,,,,"As long as you have 4 or more enhancements in play, policies cost you 1 EP less to play. *Antithecal to ""State-Controlled Media""."
-189,State-Controlled Media,Policy,,#Political,3,,,,"As long as you have 5 or more units in play, policies cost you 1 EP less to play.  *Antithecal to ""Freedom of Speech""."
-190,Theocracy,Policy,,#Political #Religious,3,,,,"Cards with the #Religious tag cost 1 less EP to play, but cards with the #Science tag cost 2 more EP to play. *Antithecal to ""Secularism""."
-191,Secularism,Policy,,#Political,3,,,,"Cards with the #Science tag cost 1 less EP to play, but cards with the #Science tag cost 2 more EP to play. *Antithecal to ""Theocracy""."
-192,Capitalism,Policy,,#Political #Economic,4,,,,"If you have at least 3 cards in play with an EP cost over 5, at the end of you rturn, you may search your library for 1 card with an EP cost over 4, then put it into your hand. Then shuffle your library. *Antithecal to ""Communism""."
-193,Military Industrial Complex,Policy,,#Political #Militaristic,4,,,,"At the end of your turn, if you attacked with any units this turn, you may search your library for 2 unit cards, reveal them, and put them into your hand. Then shuffle your library."
-194,Communism,Policy,,#Political #Economic,4,,,,"You cannot play any cards with an EP cost over 4. *Draw 2 cards instead of 1 during your draw step. *You have no maximum hand size. *Antithecal to ""Capitalism"" (you may not have both cards in play at the same time). "
-195,Public Infrastructure Stimulus,Policy,,#Political,4,,,,"Immediately after this card enters the field, you may play a building card with an EP cost under 5 for no EP cost. *At the end of your turn, if you have 4 or less building cards on your field, you may search your library for a building card, reveal it, and put it into your hand. Then shuffle your library."
-196,Universal Health Care,Policy,,#Political #Medical,5,,,,"Every turn (including an opponents' turn), after calculating damage in combat, choose up to half of your units. You may heal 1 health of each of those units."
-197,Pacifist Decree,Policy,,#Political,5,,,,"At the start of every one of your turns after this policy is played, put a counter on Pacifist decree. Until there are 2 counters on this card, all players skip the combat phase. "
-198,Interstellar Trade Agreement,Policy,,#Political #Trade,6,,,,"You have no maximum hand size. *At the end of each of your turns, you may search your library for any card, reveal it, and put it into your hand. Then shuffle your library."
-199,Advanced Research Funding Programme,Policy,,#Political,8,,,,"You have no maximumm hand size. *At the end of each of your turns, if you have at least 5 permanents in play, you may search your library for 2 cards, reveal them, and put them into your hand. Then shuffle your library."
-200,Utopia Project,Policy,,#Political,8,,,,"If you have 10 or more buildings in play, you win the game. "
-,,,,,,,,,
-201,Demalian Planetary Outpost,Headquarters,,#Demalia,,,,40,All units have +1 HP as long as you have 4 or more policy cards on the battlefield. 
-202,New Sekabian Imperial Base,Headquarters,,#New_Sekabia,,,,40,All units have +1 ATK as long as you have >2 units with an EP cost > 7 in play.
-203,Gera Outpost,Headquarters,,#Gera,,,,40,All units have speed as long as you have 5 or more units in play.
-204,Mutibiru Interplanetary Base,Headquarters,,#Mutibiru,,,,40,"At the end of your turn, if you played at least 2 ability cards this turn, you may search your library for any card, reveal it, and put it into your hand. "
-205,Galactic Mages' Center,Headquarters,,#Magic,,,,40,"All ability cards cost 1 less EP, but all unit and building cards cost 1 more EP. "
-206,Palace of the Builders,Headquarters,,#Research,,,,40,"If you have <4 buildings in play, each turn, you may search your library for a building card, reveal it, and put it into your hand. Then shuffle your library."
-207,Demalian Military Facility,Headquarters,,#Demalia #Militaristic,,,,40,All units have +1 ATK as long as you have 6 or more units in play. 
-208,Cobina Corp Starscale Research Facility,Headquarters,,#Cobina_Corp #Starscale #Research #Science,,,,40,"If you have 8 or more items in play, draw an extra card during your draw step."
-209,Hideout of the Beast Tamers,Headquarters,,#Beast,,,,40,"If you have 4 or more units in play AND all of your units in play have the #Beast tag, all your units get +1 ATK / +1 HP."
-210,Space Pirate Hideaway,Headquarters,,#Pirate,,,,40,"At the end of your turn, if an opponents' unit was destroyed this turn, return a chosen ability-interrupt card from your graveyard to your hand."
+Primary ID,Name,Type,Subtype,Other subtype,Tags,EP Cost,Mission Cost,Attack Power,Hit Points,Text
+,,,,,,,,,,
+1,Miltia Infantry,Unit,,,#Militia #Infantry #Human,1,,1,1,
+2,Demalian Guardsman,Unit,,,#Demalia #Infantry #Human,2,,2,2,
+3,Gera Shock Infantry,Unit,,,#Gera #Infantry #Human,2,,2,1,Speed (this card can attack on its first turn in the battlefield).
+4,Woodland Basilisk,Unit,,,#Beast #Snake,2,,2,1,"When this unit attacks an enemy with the human or infantry tag, it gets +1 atk power."
+5,New Sekabia Rage Trooper,Unit,,,#New_Sekabia #Human #Infantry,2,,3,1,This card cannot block unless you are starting your next turn with 5 or more EP.
+6,Roller Battlebot,Unit,,,#Robot,2,,1,2,Speed (this card can attack on its first turn in the battlefield).
+7,Desert Bush Jackal,Unit,,,#Beast #Canine,2,,2,1,"When this card attacks an enemy with the human tag, it gets +2 atk power. This card cannot block an enemy with the human tag."
+8,Experimental Cyborg Rookie,Unit,,,#Cyborg,2,,5,1,"In the end phase of its second turn on the battlefield, sacrifice this card."
+9,Rookie Combat Paramedic,Unit,,,#Human #Medical,2,,0,1,Side this card: heal 2 hit points of target unit. Use this ability after quantifying combat damage. You may use this ability during your opponents' turn.
+10,Outspoken Activist,Unit,,,#Civilian #Human #Politics,2,,0,1,"Side this card, pay 3 EP: search your library for a policy card and put it into your hand. Then shuffle your library."
+11,Cyber Hacker,Unit,,,#Civilian #Human,3,,0,1,Side this card: target enhancement card is banished from the game until this card leaves the battlefield.
+12,Skilled Blademaster,Unit,,,#Human #Melee,3,,3,2,Side this card: target unit cannot block this turn.
+13,Determined Mission Controller,Unit,,,#Civilian #Human,3,,0,1,"Side this card, pay 2 EP: Search your library for a mission card and put it into your hand. Then shuffle your library. *Side this card, pay 2 EP: target unit, if sided, becomes unsided at the end your turn."
+14,Spaceport Maintenenace Technician ,Unit,,,#Civilian #Human,3,,0,1,"Side this card, pay 3 EP: search your library for a unit with the ""vehicle"" tag and put it into your hand. Then shuffle your library *Side this card, pay 2 EP: heal 4 hit points on target building."
+15,Neeseth Scout,Unit,,,#Neeseth #Recon #Alien,3,,2,2,Side this card: you may pick three cards at random from your opponents' hand and look at them.*Airborne.
+16,Komodo Dragon Cavalry,Unit,,,#Mutibiru #Human #Beast #Lizard #Cavalry,3,,4,2,"Speed. *If, at the end of the turn, this card has not dealt damage to a unit that died this turn, remove this card from the battlefield and shuffle it into your library."
+17,Power-channeling Wizard,Unit,,,#Human #Wizard,3,,1,1,"Side this card, pay 2 EP: Search your library for an ability card and put it into your hand. Then shuffle your library."
+18,Wave Rider Wizard,Unit,,,#Human #Wizard #Water,3,,1,3,Side this card: deal 3 damage to target unit or building that already took damage this turn.
+19,New Sekabia Class 3 Battlebot,Unit,,,#New_Sekabia #Robot,3,,3,2,Side this card: deal 2 damage to target building or HQ *side this card: deal 1 damage to target unit.
+20,Laser Shield Defense Robot,Unit,,,#Robot #Defensive,4,,0,4,Buildings you control get +2 HP.
+21,Gamma Blast Turret,Unit,,,#Turret,4,,0,4,"Side this card: do 4 damage to target unit with airborne. *Side this card: do 2 damage to target unit, hq, or building."
+22,Gera Interception Drone,Unit,,,#Drone #Gera,4,,2,3,"While this card is in the battlefield, your opponents cannot play mission or ability cards. *Airborne."
+23,Cyborg Scout Vulture,Unit,,,#Cyborg #Beast #Bird #Recon,4,,3,2,"Airborne. *When you or an opponents' unit card goes into the graveyard, you may look at the top 4 cards of your library. You may place 1 mission, item or ability from among them into your hand. After doing so or not, place the other 3 cards on the bottom of your library, then shuffle it."
+24,Melee Superbot,Unit,,,#Robot,4,,4,5,
+25,Woodland Beast Tamer,Unit,,,#Human,4,,3,1,"Units you control with the ""Beast"" tag get +2/+2."
+26,New Sekabia Enforcer Drone,Unit,,,#New_Sekabia #Robot #Drone,4,,4,3,Airborne.
+27,Accomplished Fire Wizard,Unit,,,#Human #Wizard #Fire,4,,2,1,Side this card: deal 3 damage to target unit or building.
+28,Moon Crater Mini Dragon,Unit,,,#Dragon #Space_Dweller,5,,4,2,"Side this card, pay 3 EP: destroy target unit with an EP cost under 4. *Airborne."
+29,Ralom Mountain Spider,Unit,,,#Arachnid #Ralom,5,,3,3,Side this card: search a target opponents' library. Find up to 1 unit and up to 1 item card and put them into your graveyard. The opponent then shuffles their library.
+30,Gera Cyborg Bloodhound,Unit,,,#Beast #Cyborg #Canine,5,,4,1,"Speed (this card can attack on its first turn in the battlefield). *When this card attacks, EITHER: target opponent sacrifices 3 cards of their choice from their hand, OR: destroy target unit with an EP cost of 3 or less."
+31,Angelic Restoration Wizard,Unit,,,#Wizard #Human,5,,1,2,"Side this card: heal 5 HP on target building, HQ. *Side this card: heal 3 HP of up to 2 target units. You may play this ability during your opponents' turn after all combat damage is calculated (before any cards go in graveyards). "
+32,Demalian Fighter-class I Starship,Unit,,,#Vehicle #Starship,5,,5,3,Speed (this card can attack on its first turn in the battlefield). Airborne (this card can only be blocked by other units with airborne).
+33,Asteroid Mine Defense Platform,Unit,,,#Space_Station #Turret,6,,1,6,Side this card: deal 4 damage to up to 3 target units.
+34,Neeseth Guardian,Unit,,,#Alien #Neeseth,6,,3,5,Side this card: up to 3 target units and buildings cannot take damage this turn. This cannot be used for your headquarters. You may use this ability during your opponents' turn.
+35,Demalian Landship,Unit,,,#Tank,6,,2,7,Speed. *Side this card: deal 4 damage to 2 target buildings OR deal 2 damage to 3 target units.
+36,Astro Dragon,Unit,,,#Dragon #Space_Dweller,6,,7,5,Airborne (this card can only be blocked by other units with airborne).
+37,Kemper Belt Stallion Model Frigate,Unit,,,#Starship,7,,4,8,Airborne (this card can only be blocked by other units with airborne).
+38,Neeseth Warlord,Unit,,,#Neeseth #Leader,7,,7,6,"Other units you control get +3 ATK, +0 HP. *Airborne."
+39,Grand Phoenix,Unit,,,#Bird #Beast #Fire,7,,6,4,"When this card enters the battlefield, your HQ is restored to its starting HP. This can only trigger once per player over the course of a game (if you play a cop of this card, it does not trigger) *Airborne."
+40,"Father Jerolf, Emperor of New Sekabia",Unit,Heroic,,#New_Sekabia #Human #Emperor,8,,12,5,"Once per turn, you may deal 6 damage to a unit or building of your choice."
+41,The Glorious Lion of Dekatania,Unit,Heroic,,#Feline #Lion #Dekatania #Beast,8,,10,7,"Other units you control get +3 ATK, +3 HP."
+42,Demalian Battlecruiser,Unit,,,#Vehicle #Starship #Cruiser,9,,6,10,"Side this card: deal 8 damage to target building, unit, or hq. Airborne (this card can only be blocked by other units with airborne)."
+,,,,,,,,,,
+43,Makeshift Watchtower,Building,,,#Tower,3,,,3,Once per turn you may observe the top card of your library. Place it at the top or the bottom of your library.
+44,Smart-Targeting Laser Fence,Building,,,#Fence,3,,,3,"During your opponent's combat phase, after attacking units are selected, up to two attacking units of your choice get -1/-1."
+45,Governors' Pavilion,Building,,,#Pavilion #Politics,4,,,4,"Once per turn, you may either: search your library for a policy card and put it into your hand. Then shuffle your library. OR heal 1 HP of your HQ or target building for each policy card you have in play."
+46,Shrine of Healing,Building,,,#Religious,4,,,3,"At the beginning of your turn, your HQ heals 2 HP, but you discard a card."
+47,Shrine of Sacrifice,Building,,,#Religious,4,,,3,"At the beginning of your turn, your HQ takes 2 damage, but you draw an extra card."
+48,Basic Repair Facility,Building,,,#Facility,4,,,3,"Once per turn, you may heal 3 HP of up to one other building or headquarters."
+49,Ammunition Storage Facility,Building,,,#Storage,4,,,4,Units with the infantry tag get +1/+0.
+50,Mobile Military Housing Complex,Building,,,#Housing,5,,0,4,Units with the human and infantry tags get +0/+2.
+51,Cobina Corp Research Facility,Building,,,#Cobina_Corp #Science #Research,5,,,4,"Whenever you draw a card or discard a card, choose: target opponent hq takes 1 damage OR your hq heals 1 HP."
+52,Flame Wizards' Watchtower,Building,,,#Magic #Tower #Fire,5,,,3,"Whenever you play an ability during your opponents' turn, target building, unit or HQ takes 3 damage. *Once per turn, you may observe the top card of your library. Place it at the bottom or top of your library."
+53,Scholar's Foresight Beacon,Building,,,#Beacon #Academic,5,,,3,"After your draw step, look at the top 3 cards of your library. Place 1 into your hand and for each other one, place it either at the bottom or top of your library."
+54,Energy Ration Storage,Building,,,#Storage,5,,,4,"All your units except ones with the ""robot"" or ""vehicle"" tags get +2/+1. *Units with the infantry tag gain speed. "
+55,Defensive Battle Bunker,Building,,,#Bunker,5,,,7,All your units get +0/+2.
+56,Demalian Barracks,Building,,,#Demalia #Barracks,5,,,6,All your units with the infantry tag get +3/+1 unless they have the New Sekabia tag. 
+57,Mountain Chata Cabin,Building,,,#Ralom #Cabin,6,,,4,"Once during your turn, you may search your graveyard for a mission or ability card and put it into your hand."
+58,Niraxis Wilderness Expedition Center,Building,,,#Niraxis,6,,,3,"Once during your turn, you may pay 1 EP, then search your library for a unit card with the ""beast"" tag or a mission card and put it into your hand. Then shuffle your library."
+59,Kampung Dockyard,Building,,,#Mutibiru #Dockyard,6,,,5,Your HQ or a building of your choice heals 4 HP whenever you play a mission card. 
+60,Temple of Destruction,Building,,,#Religious,6,,,5,Pay 1 EP: Destroy target item your opponent controls or deal 3 damage to target building.
+61,Temple of Healing,Building,,,#Religious,6,,,5,Pay 1 EP: Fully heal a non-HQ building or unit of your choice OR heal 4 HP of your HQ.
+62,Temple of Redemption,Building,,,#Religious,6,,,5,"At the end of your turn, your HQ heals 4 HP if you dealt damage this turn."
+63,Forcefield-Guarded Hangar,Building,,,#Hangar,6,,,6,"Units with the ""aircraft"" or ""starship"" tags get +0/+6."
+64,Mages' Academy,Building,,,#Magic #Academy,7,,,8,"At the beginning of your turn, you may search your library for a unit card with the wizard tag or an ability card with the magic tag, and put it into your hand. Then shuffle your library. *At the beginning of your turn, gain 3 Bonus EP. Use this only to play magic-tagged abilities or units tagged ""wizard""."
+65,Niraxis Training Center,Building,,,#Niraxis #Training,7,,,6,"Once during your turn, search your library for 3 unit and/or mission cards of your choice and put them into your hand. Then shuffle your library."
+66,Tower of Sabotage,Building,,,#Tower,7,,,6,"Once during your turn, choose one: search your opponent's hand. Pick 3 cards and they are sacrificed OR target opponent discards a card of their choice and their HQ takes 3 damage."
+67,Advanced Class I Robotics Maintenance Facility,Building,,,#Facility #Maintenance,7,,,8,"When you play a card with the drone or robot tag, target building or your HQ heals 3 HP. *Once per turn, search your library for 4 unit cards with the robot or drone tag and put them into your hand."
+68,Den of Many Beasts,Building,,,#Beast,7,,,4,"All units you control get +3/+0. *Once per turn, you may search your library for 3 unit cards with the beast tag and put it into your hand. Then shuffle your library."
+69,Class 3 Starscale Research Centre,Building,,,#Research #Science,7,,,6,"Once per turn, you may search your library for 3 item cards with the starscale tag and put them into your hand. Then shuffle your library. *When you play an item card with the starscale tag, your HQ heals 5 HP."
+70,Magnificient Armoury,Building,,,#Armoury #Storage,7,,,6,"Once per turn, you may search your library for 3 item cards with the weapon tag and put them into your hand. Then shuffle your library. *All units you control get +2/+2."
+71,Grandioise Victory Monument,Building,,,#Monument,8,,,7,All units you control get +6/+5 as long as you have at least one policy card in play. 
+72,Citadel of Windows,Building,,,#Building #Citadel,8,,,6,"After you draw a card, up to 3 buildings and your hq heal X HP, where X is the number of cards in your hand."
+73,Walled High Security Prison,Building,,,#Building #Prison,8,,,7,"When this card comes into play, imprison up to 5 units an opponent has (they come under your control and cannot attack or defend, and are placed under this card). If it is at 5 units, you may pay 2 EP to return an imprisoned unit to your opponents' side of the battlefield and replace it with another one."
+74,Palace of the Wind Gods,Building,Wonder,,#Building #Temple,9,,,8,"All airborne units have speed. *Units with an EP cost of 4 or less get +X/+X, where X is the nummber of airborne units you control. *Twice per turn, you may return up to 2 opponents' cards to their hand OR choose 2 cards from your graveyard and place them into your hand. "
+75,Tower of a Thousand Empires,Building,Wonder,,#Building #Politcal #Tower,10,,,9,"Once per turn, a target opponent's HQ takes 3 * X damage and yours heals 3 * X damage, where X is the number of policies you control. *Draw an extra card during your draw step."
+76,Grand Kraton,Building,Wonder,,#Building #Mutibiru,11,,,12,"Once per turn, your opponent's HQ takes 2X damage and yours heals 2X damage, where X is the number of mission and ability cards in your graveyard. *When an opponent has 30 or less cards left in their library, they lose the game."
+77,Sibrade Wormhole Gate,Building,Wonder,,#Building #Wormhole,12,,,12,"When this card comes into play, return all permanents from your graveyard onto the battlefield. *When an opponent's HQ is at 20 or less HP, they lose the game."
+,,,,,,,,,,
+78,Firebolt,Ability,,,#Magic #Fire,1,,,,"Deal 3 damage to target unit, HQ or building."
+79,Energy Surge,Ability,,,#Energy,1,,,,You get 3 extra energy points this turn (net 2 after paying 1 for this card).
+80,Magic Missile,Ability,,,#Magic,1,,,,Deal 4 damage to target unit. The unit must have an EP cost under 4. 
+81,Banish,Ability,Interrupt,,#Disruption,1,,,,Target card is returned to its owners hand.
+82,Skybound Lightning,Ability,Interrupt,,#Magic #Lightning,2,,,,Destroy target unit with airborne.
+83,Arcane Shield,Ability,Interrupt,,#Magic #Shield,2,,,,Target unit gets +3 HP until end of turn.
+84,Spark of Restoration,Ability,,,#Magic #Healing,2,,,,Heal 4 HP on your HQ or 2 HP on target building.
+85,Beam of Healing,Ability,Interrupt,,#Magic #Healing,2,,,,Use this when one of your units is destroyed. Target unit regains all HP and does not go into the graveyard. The unit is sided until your next turn.
+86,Cloud of Confusion,Ability,Interrupt,,#Magic,2,,,,Up to 2 units controlled by opponents get -2 ATK until end of turn.
+87,Mortar Blast,Ability,,,#Projectile,3,,,,Deals 5 damage to target building.
+88,Intercept,Ability,Interrupt,,#Disruption,3,,,,Cancel target card play by opponent (the card they were about to play does not take effect and goes into the graveyard).
+89,Terminate,Ability,,,#Disruption,3,,,,Destroy target enhancement.
+90,Subvert,Ability,,,#Disruption #Politics,3,,,,Destroy target policy.
+91,Assassinate,Ability,,,#Disruption,3,,,,Destroy target unit.
+92,Smash,Ability,,,#Magic #Disruption,3,,,,Destroy target item.
+93,Arcane Prison Chains,Ability,,,#Magic ,3,,,,"Choose up to 3 units of an opponent. Place 2 chain counters on each. At the beginning of each of that opponents' turns, they lose a counter. Until all the chain counters are removed, each unit cannot be unsided."
+94,Reckless Research,Ability,,,#Science,3,,,,Your HQ takes 3 damage. Search your library for up to 2 cards of your choice and put them into your hand. Then shuffle your library.
+95,Forked Lightning,Ability,,,#Magic #Lightning,4,,,,Destroy target unit. Up to 2 other units take 2 damage each.
+96,Detonate,Ability,,,#Explosive,4,,,,Destroy target building with an HP under 8.
+97,Targeted Cannonfire,Ability,,,#Projectile,4,,,,Deal 8 damage to target opponents' HQ.
+98,Spirit of Mending,Ability,Interrupt,,#Magic #Restoration,4,,,,"Play this at the end of your or an opponents' turn. Heal all damage that was dealt to any of your buildings on the field this turn. (If any buildings were destroyed, they remain destroyed)."
+99,Restorative Shine,Ability,,,#Magic #Restoration,4,,,,Heal 8 damage to your HQ.
+100,Restorative Mending,Ability,Interrupt,,#Magic #Restoration,4,,,,Play this at the end of your or an opponents' turn. Heal all damage that was dealt to your HQ this turn.
+101,Toxic Rainstorm,Ability,,,#Weather #Magic #Poison,4,,,,Destroy all units with airborne controlled by all players.
+102,Advanced Insight,Ability,,,#Magic,5,,,,Search your library for up to 5 cards of your choice and put them into your hand. Then shuffle your library.
+103,Sweeping Flame,Ability,Interrupt,,#Magic #Fire,5,,,,Destroy all units with an EP cost of 3 or less controlled by target opponent.
+104,Manta Volley,Ability,,,#Magic #Mutibiru,5,,,,Destroy 3 of target opponents' units OR destroy 1 building OR destroy 1 enhancement.
+105,Inspiring Battlecry,Ability,Interrupt,,#Vocal,5,,,,All of your units get +4 / +1 until end of turn.
+106,Artifical Earthquake,Ability,,,#Science,5,,,,Destroy all buildings controlled by all players.
+107,Ice Storm,Ability,,,#Magic #Ice,6,,,,"Deal 3 damage to up to 3 of target opponents' buildings and remove X units, where X is the number of permenants with the #magic tag you control on the battlefield."
+108,Wall of Light,Ability,Interrupt,,#Magic #Light,6,,,,Play this after your opponent has declared attackers. All attacking units atk power changes to 0. Your HQ heals 8 HP.
+109,Apocalyptic Orbital Bombardment,Ability,,,#Projectile #Orbital,6,,,,Destroy all items controlled by all players except HQs. 
+110,Forcefield Megacage,Ability,,,#Forcefield,8,,,,"For your next 2 combat phases, opposing units may not block."
+111,Instant Building Replication,Ability,,,#Advanced Physics,9,,,,All buildings in your graveyard are returned to your field at full HP. Your HQ heals 5 HP.
+112,Renaissance,Ability,,,#Culture,9,,,,All policies and enhancements in your graveyard are returned to your field. 
+113,Artifical Black Hole,Ability,,,#Advanced Physics,12,,,,Destroy all of target opponent's permanents (cards that stay in the board indefinitely) except the HQ. That opponents' HQ takes 20 damage.
+,,,,,,,,,,
+114,Energy Surplus Operation,Mission,,,#Energy,1,2,,,Gain 4 bonus energy points this turn (net 3 after paying for this card).
+115,Charge of the Beasts,Mission,,,#Beast,2,2,,,Units with the #Beast tag get +3 ATK until end of turn.
+116,Militaristic Inspiration,Mission,,,#Militaristic #Infantry,2,2,,,Units with the #Infantry tag get +3 ATK until end of turn.
+117,Brief Research Errand,Mission,,,#Science #Research,1,3,,,Look at the top 4 cards of your library. Place any of your choice on the bottom of your library. Rearrange the others at the top in any order.
+118,Niraxis Underworld Expedition,Mission,,,#Niraxis,2,3,,,Search your library for 3 item cards and put them into your hand. Then shuffle your library.
+119,Gunung Maso Summit Ascent,Mission,,,#Mutibiru,2,3,,,Search your library for 5 cards with the #Mutibiru tag and put them into your hand. Then shuffle your library.
+120,Asteroid Mine Run,Mission,,,#Asteroid #Spaceflight,3,2,,,You start your turn with 3 extra energy points next turn.
+121,Suicidal Dive Bombing,Mission,,,#Aircraft,2,4,,,Sacrifice the unit(s) that was/were sided to pay for this mission. Destroy target building (not HQ).
+122,Mercenary Recruitment Campaign,Mission,,,#Recruitment,4,X,,,"Create X ""mercenary"" unit tokens with the #Human, #Mercenary, and #Infantry tags. Their ATK is 2 and their HP is 1."
+123,Starscale Search Expedition,Mission,,,#Starscale,4,X,,,Search your library for x item cards with the #Starscale tag and put them into your hand. Then shuffle your library.
+124,Onsite Architectural Study,Mission,,,#Research,3,3,,,Srearch your library for 5 building cards and put them into your hand. Then shuffle your library.
+125,Stoke Mass Anarchy,Mission,,,#Politics,4,2,,,Destroy all policies controlled by all players.
+126,Team HQ Repair Effort,Mission,,,#Healing,2,4,,,Heal 8 HP on your HQ.
+127,Smash It All Up!,Mission,,,#Politics,3,3,,,Destroy all items controlled by all players.
+128,Ralom Forest Hunt,Mission,,,#Ralom,3,3,,,Heal 4 HP on your HQ. Search your library for 4 cards with the #Beast tag and put them into your hand. Then shuffle your library.
+129,Die for Science,Mission,,,#Science #Research,1,5,,,"Sacrifice all units that were sided to play this card. Search your library for 4 cards, reveal them, and put them into your hand, and each can be any of the following categories: item, enhancement, unit, building, or ability. Then shuffle your library."
+130,Supply Route Interception,Mission,,,#Spaceflight,2,5,,,Target opponent removes the top 10 cards of their library. 
+131,Sacrificial Ritual,Mission,,,#Religious,5,2,,,"Sacrifice target unit that is not being sided to play this card. Search your library for 4 cards of any category(-ies), reveal them, and put them into your hand. Then shuffle your library."
+132,Grandioise Memorial Service,Mission,,,#Militaristic #Healing,3,4,,,"You may only play this card if at least of your units has been destroyed this turn. Your HQ heals 6 HP, and you may fully heal one building of your choice."
+133,Anthropological Research Journey,Mission,,,#Research,3,4,,,Search your library for 5 enhancement and/or policy cards and put them into your hand. Then shuffle your library.
+134,Destructive Mass Sacrifice,Mission,,,#Militaristic ,1,7,,,"Sacrifice all units that were sided to play this card. Your opponent's HQ loses half of its remaining HP, rounded up. "
+135,Stance of Heroism,Mission,,,#Militaristic,7,1,,,Your units gain +6 ATK / +5 HP until end of turn.
+136,Aerial Bombardment Campaign,Mission,,,#Aircraft #Projectile,2,7,,,Destroy up to 5 of target opponents' units and/or buildings. Deal 10 damage to their HQ.
+,,,,,,,,,,
+137,Aura of Decay,Enhancement,,,#Magic,1,,,,"At the start of your turn, your HQ takes 2 damage. Then place a 1 ATK/1 HP ""automaton"" unit token with the #magic and #robot tags onto the battlefield."
+138,Chaotic Restoration,Enhancement,,,#Magic,1,,,,"At the start of your turn, discard a card. Your HQ heals 4 damage."
+139,Battalion Morale,Enhancement,,,#Militaristic,2,,,,All your units have +1 ATK as long as you have 3 or more units on the battlefield.
+140,Chaotic Aura,Enhancement,,,#Magic,2,,,,"All your units have -1 HP but +1 ATK (if they have 1 max HP just before this card is in play, they are removed from the battlefield)."
+141,Restorative Shine,Enhancement,,,#Magic #Religious,2,,,,"At the end of your turn, you may choose your HQ or any one building and heal 2 HP."
+142,Sense of Curiosity,Enhancement,,,#Scientific,2,,,,"After your draw step, you may look at the top 3 cards of your library. You may place any number of them on the bottom of your library and rearrange the rest at the top in any order."
+143,Advanced Boltguns,Enhancement,,,#Projectile,3,,,,All your units in play with the #infantry tag have +2 ATK.
+144,Arcane Shine,Enhancement,,,#Magic,3,,,,"At the end of your turn, if you played an ability this turn, you may search your library for a card with the #Magic tag and put it into your hand. Then shuffle your library."
+145,Protection of the Weak,Enhancement,,,#Militaristic,3,,,,All your units have +1 HP if their base HP value is 3 or less.
+146,Educated Patriotism,Enhancement,,,#Political,3,,,,Your units gain +1 ATK for each of your policy cards in play.
+147,Silat Competence,Enhancement,,,#Mutibiru #Martial_Arts,3,,,,"Units with the #Mutibiru tag gain +1 ATK. At the end of your turn, if yan opponents' HQ took damage this turn, you may search your library for a card with the #Mutibiru tag and put it into your hand. Then shuffle your library."
+148,Essence of the Bielstrom Mountains,Enhancement,,,#Ralom,3,,,,"Units with the #Ralom tag gain +1 HP. At the end of the turn, if your HQ healed any damage this turn, you may search your library for a card with the #Ralom tag and put it into your hand. Then shuffle your library."
+149,Starscale Channeling - Destruction,Enhancement,,,#Starscale #Magic,4,,,,"At the start of your turn, choose an opponent. Their HQ takes X damage, where X is the number of items tagged ""starscale"" you control that are in play."
+150,Aura of Restoration,Enhancement,,,#Magic,4,,,,"At the start of your turn, your HQ heals 2 damage."
+151,Avant-garde Armour Upgrades,Enhancement,,,#Militaristic,4,,,,All your units have +1 HP.
+152,Starscale Channeling - Restoration,Enhancement,,,#Starscale #Magic,4,,,,"At the start of your turn, your HQ heals X health, where X is the number of items tagged ""starscale"" you control that are in play."
+153,Dying for a Cause,Enhancement,,,#Militaristic,5,,,,"When one of your units is destroyed and goes into the graveyard, search your library for any card, reveal it, and put it into your hand. Then shuffle your library."
+154,Aura of Destruction,Enhancement,,,#Magic,5,,,,"At the start of your turn, choose an opponent. Their HQ takes 3 damage."
+155,Mark of Sabotage,Enhancement,,,#Magic,5,,,,"As this card comes into play, choose an opponent. Whenever one of that opponents' units or buildings is destroyed, the top 3 cards of their library are removed and placed in the graveyard."
+156,Aura of Fortification,Enhancement,,,#Magic,6,,,,"Your HQ and building cards cannot be the target of ability cards or enhancement effects your opponents control. At the beginning of your turn, your HQ heals 3 HP."
+157,Darkened Skies,Enhancement,,,#Magic,6,,,,"When this card comes into play, choose an opponent. Destroy all units with the ""airborne"" ability. That opponent cannot play cards with the ""airborne"" ability while this enhancement is in play."
+158,Aura of Obliteration,Enhancement,,,#Magic,7,,,,Each opponent removes the top 5 cards of their library at the start of their turn.
+159,Revival Project,Enhancement,,,#Research #Advanced_Physics,7,,,,"At the beginning of your turn, you may choose 3 cards from your graveyard and then put them into your hand OR you may choose 6 cards from your graveyard and put them into your library, then shuffle your library."
+160,Dark Forcefield,Enhancement,,,#Magic,8,,,,"During an opponent's turn's combat phase, their HQ takes 5 damage per unit that attacks. "
+161,Supreme Aura,Enhancement,,,#Magic,9,,,,"At the end of your turn, your HQ heals 10 health. Choose an opponent, and their HQ takes 10 damage."
+,,,,,,,,,,
+162,Electric Dagger,Item,Equipment,,#Melee,1,,,,Equip cost: 1 EP. *Equipped unit gets +1 ATK.
+163,Luminous Orb,Item,,,#Magic,1,,,,"At the end of your turn, if your HQ healed any HP this turn, you may look at the top card of your library. Place it back on top of your library or move it to the bottom of your library."
+164,Blast Pistol,Item,Equipment,,#Melee,2,,,,Equip cost: 1 EP. *Equipped unit gets +2 ATK.
+165,Signal Interception Beacon,Item,,,#Device,2,,,,"Once per turn, for 1 EP, you may choose 3 cards in your opponents' hand and they are revealed to you. "
+166,High-thrust Jetpack,Item,Equipment,,#Transport,3,,,,Equip cost: 3 EP. *Equipped unit has airborne (this unit can only be blocked by other units with airborne).
+167,Kris Dagger,Item,Equipment,,#Mutibiru #Melee,3,,,,Equip cost: 2 EP. *Equipped unit gains lethal strike (any amount of damage dealt by this unit to an enemy unit in combat is enough to destroy the enemy unit). 
+168,Gamma Blaster,Item,Equipment,,#Projectile,3,,,,Equip cost: 1 EP. *Equipped unit gets +3 ATK.
+169,Boots of Speed,Item,Equipment,,#Footwear,3,,,,Equip cost: 2 EP. *Equipped unit has speed (this unit can attack on the turn when it comes into play). 
+170,Invisibility Suit ,Item,Equipment,,#Clothing,3,,,,"Equip cost: 1 EP. *While on the battlefield, this unit cannot be the target of abilities or effects of cards (rule text) your opponents control. "
+171,Air Traffic Control Beacon,Item,,,#Device,3,,,,All units on your field with airborne also have speed. 
+172,Mystic Beast Horn,Item,,,#Beast #Magic,4,,,,All units with the #Beast tag get +1 ATK/+1 HP.
+173,Ultra Blaster,Item,Equipment,,#Projectile,4,,,,Equip cost: 1 EP. *Equipped unit gets +4 ATK.
+174,Marksmans' Starscale,Item,Equipment,,#Starscale,4,,,,Equip cost: 1 EP. *Must be equipped to a unit with the #infantry tag. *Equipped unit gains +4 ATK and lethal strike (any amount of damage dealt by this unit to an enemy unit in combat is enough to destroy the enemy unit).
+175,Poison Bomb,Item,,,#Explosive,4,,,,Sacrifice Poison Bomb: Choose up to 3 of target opponent's units with an EP cost of 4 or less. Destroy those units.
+176,Advanced Jetpack,Item,Equipment,,#Transport,4,,,,Equip cost: 1 EP. *Equipped unit has airborne and speed. *Equipped unit has +2 HP.
+177,Crimson Starscale,Item,,,#Starscale,5,,,,"Sacrifice Crimson Starscale: Destroy all cards controlled by all players of one of these chosen categories: enhancements, policies, buildings, items, units"
+178,Alpha Blaster,Item,Equipment,,#Projectile,5,,,,Equip cost: 1 EP. *Equipped unit gets +5 ATK.
+179,High Grade Vehicle Plating,Item,Equipment,,#Armour,6,,,,Equip cost: 2 EP. Must be equipped to a unit with the #vehicle or #starship tag. *Equipped unit has +9 HP. 
+180,Cobina Corp Supercomputer,Item,,,#Computer #Cobina_Corp,6,,,,"You have no maximum hand size. *At the beginning of your turn, draw 5 cards."
+181,Destruction Starscale,Item,,,#Starscale,7,,,,"At the end of your turn, if you dealt damage to an opponent's building this turn, you may: that opponent's HQ takes 6 damage OR choose target building on that opponent's field and it takes 3 damage. "
+182,Darkshadow Starscale,Item,,,#Starscale,7,,,,"At the beginning of all your opponents' turns, they must choose 1 unit or building and sacrifice it. "
+183,Emerald Starscale,Item,,,#Starscale,8,,,,"At the beginning of your turn, choose up to 3 cards in your graveyard, reveal them, and put them into your hand. *At the end of your turn, you may choose: your HQ heals 5 HP OR a building of your choice heals 3 HP. "
+184,Golden Starscale,Item,,,#Starscale,8,,,,"At the beginning of your turn, either: Remove 8 cards from the top of target opponents' library OR draw 3 cards. *You have no maximum hand size."
+185,Starscale Alpha,Item,Exceptional,,#Starscale,8,,,,"At the beginning of your turn, put 2 counters on this card. *At the end of your turn, you may heal 2X health to your HQ or target building OR you may do 2X damage to a target opponents' HQ or target building, where x is the number of counters on this card. "
+,,,,,,,,,,
+186,Arcane Research Funding,Policy,,,#Political #Magic,2,,,,"At the end of your turn, if you played an ability this turn, you may search your library for a card with the #Magic tag and put it into your hand. Then shuffle your library."
+187,Short-Term Military Recruitment.,Policy,,,#Political #Militaristic,2,,,,"At the end of your turn, if you have 3 units or less on your field, you may search your library for a card with the #Infantry tag and put it into your hand. Then shuffle your library."
+188,Freedom of Speech,Policy,,,#Political,3,,,,"As long as you have 4 or more enhancements in play, policies cost you 1 EP less to play. *Antithecal to ""State-Controlled Media""."
+189,State-Controlled Media,Policy,,,#Political,3,,,,"As long as you have 5 or more units in play, policies cost you 1 EP less to play.  *Antithecal to ""Freedom of Speech""."
+190,Theocracy,Policy,,,#Political #Religious,3,,,,"Cards with the #Religious tag cost 1 less EP to play, but cards with the #Science tag cost 2 more EP to play. *Antithecal to ""Secularism""."
+191,Secularism,Policy,,,#Political,3,,,,"Cards with the #Science tag cost 1 less EP to play, but cards with the #Science tag cost 2 more EP to play. *Antithecal to ""Theocracy""."
+192,Capitalism,Policy,,,#Political #Economic,4,,,,"If you have at least 3 cards in play with an EP cost over 5, at the end of you rturn, you may search your library for 1 card with an EP cost over 4, then put it into your hand. Then shuffle your library. *Antithecal to ""Communism""."
+193,Military Industrial Complex,Policy,,,#Political #Militaristic,4,,,,"At the end of your turn, if you attacked with any units this turn, you may search your library for 2 unit cards, reveal them, and put them into your hand. Then shuffle your library."
+194,Communism,Policy,,,#Political #Economic,4,,,,"You cannot play any cards with an EP cost over 4. *Draw 2 cards instead of 1 during your draw step. *You have no maximum hand size. *Antithecal to ""Capitalism"" (you may not have both cards in play at the same time). "
+195,Public Infrastructure Stimulus,Policy,,,#Political,4,,,,"Immediately after this card enters the field, you may play a building card with an EP cost under 5 for no EP cost. *At the end of your turn, if you have 4 or less building cards on your field, you may search your library for a building card, reveal it, and put it into your hand. Then shuffle your library."
+196,Universal Health Care,Policy,,,#Political #Medical,5,,,,"Every turn (including an opponents' turn), after calculating damage in combat, choose up to half of your units. You may heal 1 health of each of those units."
+197,Pacifist Decree,Policy,,,#Political,5,,,,"At the start of every one of your turns after this policy is played, put a counter on Pacifist decree. Until there are 2 counters on this card, all players skip the combat phase. "
+198,Interstellar Trade Agreement,Policy,,,#Political #Trade,6,,,,"You have no maximum hand size. *At the end of each of your turns, you may search your library for any card, reveal it, and put it into your hand. Then shuffle your library."
+199,Advanced Research Funding Programme,Policy,,,#Political,8,,,,"You have no maximumm hand size. *At the end of each of your turns, if you have at least 5 permanents in play, you may search your library for 2 cards, reveal them, and put them into your hand. Then shuffle your library."
+200,Utopia Project,Policy,,,#Political,8,,,,"If you have 10 or more buildings in play, you win the game. "
+,,,,,,,,,,
+201,Demalian Planetary Outpost,Headquarters,,,#Demalia,,,,40,All units have +1 HP as long as you have 4 or more policy cards on the battlefield. 
+202,New Sekabian Imperial Base,Headquarters,,,#New_Sekabia,,,,40,All units have +1 ATK as long as you have >2 units with an EP cost > 7 in play.
+203,Gera Outpost,Headquarters,,,#Gera,,,,40,All units have speed as long as you have 5 or more units in play.
+204,Mutibiru Interplanetary Base,Headquarters,,,#Mutibiru,,,,40,"At the end of your turn, if you played at least 2 ability cards this turn, you may search your library for any card, reveal it, and put it into your hand. "
+205,Galactic Mages' Center,Headquarters,,,#Magic,,,,40,"All ability cards cost 1 less EP, but all unit and building cards cost 1 more EP. "
+206,Palace of the Builders,Headquarters,,,#Research,,,,40,"If you have <4 buildings in play, each turn, you may search your library for a building card, reveal it, and put it into your hand. Then shuffle your library."
+207,Demalian Military Facility,Headquarters,,,#Demalia #Militaristic,,,,40,All units have +1 ATK as long as you have 6 or more units in play. 
+208,Cobina Corp Starscale Research Facility,Headquarters,,,#Cobina_Corp #Starscale #Research #Science,,,,40,"If you have 8 or more items in play, draw an extra card during your draw step."
+209,Hideout of the Beast Tamers,Headquarters,,,#Beast,,,,40,"If you have 4 or more units in play AND all of your units in play have the #Beast tag, all your units get +1 ATK / +1 HP."
+210,Space Pirate Hideaway,Headquarters,,,#Pirate,,,,40,"At the end of your turn, if an opponents' unit was destroyed this turn, return a chosen ability-interrupt card from your graveyard to your hand."
