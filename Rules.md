@@ -39,7 +39,7 @@ ________________________________________________________________________________
 
 The headquarters card is the centrepiece of your planetary base. It is the one card you start with in the game, before any gameplay begins. Each headquarters card has 40 hit points and its health can not go above that. To win the game, you must reduce your opponents' HQ to 0 health. You can do so by attacking the HQ with units or using damage-dealing abilities.
 
-Each unique HQ comes with a different unique ability that grants you some sort of helpful bonus throughout the game. HQ abilities are meant to encourage to a specific playstyle or strategy. Decks should ideally be built around a specific strategy (ability damage, sabotage, beatdown) and different HQ cards go well with different kinds of gameplay strategies.
+Each unique HQ comes with a different unique ability that grants you some sort of helpful bonus throughout the game. HQ abilities are meant to encourage to a specific playstyle or strategy. Decks should ideally be built around a specific strategy (ability damage, sabotage, beatdown) and different HQ cards go well with different strategies.
 
 **Unit**
 
@@ -77,12 +77,19 @@ Note: If any interrupt-subtype ability or anything else somehow (the ones that c
 
 **Policy**
 
-Policy cards cards represent policies of your planetary colony's government. Policy cards stay on your field indefinitely like enhancements, and can have very helpful effects. Playing policy cards, however, comes at an additional cost. You can only play a policy card if you have not yet played any other cards this turn. If you play a policy card, you cannot play any other cards or have a combat phase in the rest of your turn. This means that playing a policy card is a careful choice that comes at the expense of being able to undertake other meaningful actions during your turn. Effects of permanents (cards that stay on the field indefinitely) can  still take effect.
+Policy cards cards represent policies of your planetary colony's government. Policy cards stay on your field indefinitely like enhancements, and can have very helpful effects. Playing policy cards, however, comes at an additional cost. You can only play a policy card if you have not yet played any other cards this turn or started your combat phase. If you play a policy card, you cannot play any other cards or have a combat phase in the rest of your turn. This means that playing a policy card is a major choice that comes at the expense of being able to undertake other meaningful actions during your turn. Effects of permanents (cards that stay on the field indefinitely) can  still take effect.
 
 **Item**
 
+These represent devices and objects that are useful to your planetary colony. An Item card stays on the battlefield indefinitely. There are a variety of item cards that have various types of helpful effects in the game. 
 
+**Item Subtype: Equipment**
 
+Equipment items need to be equipped to a unit for their bonuses to take effect. Every equip card has an equip cost - an additional energy points cost to equip an item to a unit. Items can be equipped the first turn they enter the battlefield. They stay with the unit they are equipped to indefinitely. You can pay a card's equip cost again to equip the item to another unit, but the limit is that you can only equip it to something new once per turn maximum. If the unit the card is equipped to is destroyed, the equipped card is unequipped but stays on your field. When it is your turn, you may equip it to another unit. 
+
+**Item Subtype: Exceptional**
+
+Like wonders and heroic units, exceptional items are one-of-a-kind legendary items. Only one copy of any exceptional item can be in play during a game at any time. If your opponent has a specific exceptional item in play, and you could play it, you must wait for the opponents' copy to be destroyed somehow before you play your copy. 
 
 ***MORE TO COME***
 
