@@ -1,14 +1,11 @@
-
-
 import mysql.connector
-from mysql.connector import Error
 
 # Establish connection to the database
 
 connection = mysql.connector.connect(
         host="127.0.0.1",        
         user="root",    # Replace with your MySQL username
-        password="CatsAreSupreme101",# Replace with your MySQL password
+        password="",# Replace with your MySQL password
         database="ssbg_cards" # Replace with your target database name
     )
 
@@ -22,12 +19,7 @@ def cardsearch(cardname):
     myresult = cursor.fetchall()
     print(myresult)
 
+###test of function
+
 cardsearch("starscale alpha")
 
-decklist = ["Starscale alpha", "starscale alpha", "militia infantry", "space pirate hideaway"]
-
-def decklistsearch(v):
-    for i in range(0, len(v)):
-         cardsearch(v[i])
-
-decklistsearch(decklist)
