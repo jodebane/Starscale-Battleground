@@ -5,7 +5,7 @@ import mysql.connector
 connection = mysql.connector.connect(
         host="127.0.0.1",        
         user="root",    # Replace with your MySQL username
-        password="",# Replace with your MySQL password
+        password="*********",# Replace with your MySQL password
         database="ssbg_cards" # Replace with your target database name
     )
 
@@ -22,4 +22,3 @@ def cardsearch(cardname):
 ###test of function
 
 cardsearch("starscale alpha")
-
